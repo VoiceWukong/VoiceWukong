@@ -1,0 +1,79 @@
+language,fake_or_real,path,id,source,variant,user_choice,user_score,have_answered,have_scored,cause
+en,True,NoiseAdded-natural25/en/audio1214.wav,NoiseAdded-natural25_en_1214,resemble-AI,NoiseAdded-natural25,1,2,1,1,"Speech rate,Emotion,Pauses or breathing sounds"
+en,True,TimeScaling110/en/audio6417.wav,TimeScaling110_en_6417,tortoise-tts,TimeScaling110,1,1,1,1,self的发音有电流感
+en,True,volume50/en/audio2813.wav,volume50_en_2813,elevenlabs,volume50,0,2,1,1,"Speech rate,Emotion,Pauses or breathing sounds"
+en,False,NoiseAdded-human25/en/audio1064.wav,NoiseAdded-human25_en_1064,real,NoiseAdded-human25,0,-1,1,-1,
+en,False,Re-Alldataset/en/audio843.wav,Re-Alldataset_en_843,real,Re-Alldataset,0,-1,1,-1,
+en,False,NoiseAdded-human15/en/audio3406.wav,NoiseAdded-human15_en_3406,real,NoiseAdded-human15,0,-1,1,-1,
+en,False,expfade20/en/audio992.wav,expfade20_en_992,real,expfade20,0,-1,1,-1,
+en,False,NoiseAdded-exterior25/en/audio371.wav,NoiseAdded-exterior25_en_371,real,NoiseAdded-exterior25,1,-1,1,-1,
+en,False,TimeScaling105/en/audio2205.wav,TimeScaling105_en_2205,real,TimeScaling105,1,-1,1,-1,
+en,True,NoiseAdded-exterior25/en/audio2562.wav,NoiseAdded-exterior25_en_2562,aivoov,NoiseAdded-exterior25,0,2,1,1,"Speech rate,Pauses or breathing sounds"
+en,False,gaussadded15/en/audio2298.wav,gaussadded15_en_2298,real,gaussadded15,0,-1,1,-1,
+en,False,volume75/en/audio3683.wav,volume75_en_3683,real,volume75,0,-1,1,-1,
+en,True,NoiseAdded-animal20/en/audio288.wav,NoiseAdded-animal20_en_288,tortoise-tts,NoiseAdded-animal20,1,1,1,1,"Emotion,Signs 有明显电流音。"
+en,True,Alldataset/en/audio1047.wav,Alldataset_en_1047,StarGan,Alldataset,1,1,1,1,no need 的合成口齿不清
+en,False,Alldataset44k/en/audio1450.wav,Alldataset44k_en_1450,real,Alldataset44k,0,-1,1,-1,
+en,False,NoiseAdded-interior25/en/audio3374.wav,NoiseAdded-interior25_en_3374,real,NoiseAdded-interior25,0,-1,1,-1,
+en,True,volume125/en/audio4532.wav,volume125_en_4532,elevenlabs,volume125,1,2,1,1,合成很好，很难分辨，但存在微弱电流/气泡声
+en,False,NoiseAdded-exterior20/en/audio1196.wav,NoiseAdded-exterior20_en_1196,real,NoiseAdded-exterior20,0,-1,1,-1,
+en,True,NoiseAdded-human25/en/audio3141.wav,NoiseAdded-human25_en_3141,resemble-AI,NoiseAdded-human25,0,3,1,1,"Speech rate,Pauses or breathing sounds"
+en,True,NoiseAdded-animal15/en/audio484.wav,NoiseAdded-animal15_en_484,xtts_v2,NoiseAdded-animal15,1,2,1,1,Emotion
+en,False,TimeScaling110/en/audio3181.wav,TimeScaling110_en_3181,real,TimeScaling110,1,-1,1,-1,
+en,False,expfade10/en/audio5869.wav,expfade10_en_5869,real,expfade10,0,-1,1,-1,
+en,True,TimeScaling90/en/audio6328.wav,TimeScaling90_en_6328,playht,TimeScaling90,1,1,1,1,"Emotion,Confirmed 和 yard 发音有明显电流感"
+en,True,TimeScaling95/en/audio872.wav,TimeScaling95_en_872,speechgen,TimeScaling95,1,1,1,1,Emotion
+en,False,Alldataset32K/en/audio911.wav,Alldataset32K_en_911,real,Alldataset32K,0,-1,1,-1,
+en,True,volume150/en/audio121.wav,volume150_en_121,elevenlabs,volume150,0,3,1,1,Emotion
+en,True,logfade20/en/audio4146.wav,logfade20_en_4146,GPT_SoVITS,logfade20,1,2,1,1,Emotion
+en,False,NoiseAdded-natural20/en/audio5315.wav,NoiseAdded-natural20_en_5315,real,NoiseAdded-natural20,0,-1,1,-1,
+en,True,gaussadded20/en/audio4259.wav,gaussadded20_en_4259,openai,gaussadded20,1,2,1,1,Emotion
+en,True,expfade30/en/audio6571.wav,expfade30_en_6571,vitstts,expfade30,1,2,1,1,"Voice volume,太短了，但是 it means 的部分口齿不清"
+en,False,NoiseAdded-animal15/en/audio1874.wav,NoiseAdded-animal15_en_1874,real,NoiseAdded-animal15,0,-1,1,-1,
+en,False,linefade20/en/audio5500.wav,linefade20_en_5500,real,linefade20,1,-1,1,-1,
+en,False,NoiseAdded-natural15/en/audio4644.wav,NoiseAdded-natural15_en_4644,real,NoiseAdded-natural15,0,-1,1,-1,
+en,True,volume75/en/audio2508.wav,volume75_en_2508,StarGan,volume75,1,1,1,1,重复，口齿不清
+en,True,NoiseAdded-human15/en/audio6214.wav,NoiseAdded-human15_en_6214,naturalreader,NoiseAdded-human15,0,2,1,1,"Speech rate,Emotion"
+en,False,logfade30/en/audio2292.wav,logfade30_en_2292,real,logfade30,1,-1,1,-1,
+en,True,expfade10/en/audio3539.wav,expfade10_en_3539,aivoov,expfade10,1,2,1,1,发音太标准了，没有过度的情绪
+en,False,TimeScaling90/en/audio731.wav,TimeScaling90_en_731,real,TimeScaling90,1,-1,1,-1,
+en,True,gaussadded25/en/audio4031.wav,gaussadded25_en_4031,freetts,gaussadded25,0,3,1,1,"Emotion,Pauses or breathing sounds"
+en,True,gaussadded15/en/audio4686.wav,gaussadded15_en_4686,xtts_v2,gaussadded15,1,2,1,1,"Emotion,Pauses or breathing sounds"
+en,False,NoiseAdded-interior20/en/audio13535.wav,NoiseAdded-interior20_en_13535,real,NoiseAdded-interior20,0,-1,1,-1,
+en,True,Alldataset44k/en/audio4728.wav,Alldataset44k_en_4728,vallex,Alldataset44k,1,2,1,1,"Emotion,Pauses or breathing sounds"
+en,False,Alldataset/en/audio6515.wav,Alldataset_en_6515,real,Alldataset,1,-1,1,-1,
+en,False,linefade30/en/audio2820.wav,linefade30_en_2820,real,linefade30,0,-1,1,-1,
+en,False,linefade10/en/audio2315.wav,linefade10_en_2315,real,linefade10,0,-1,1,-1,
+en,True,NoiseAdded-natural15/en/audio4027.wav,NoiseAdded-natural15_en_4027,diffganTTS,NoiseAdded-natural15,0,2,1,1,"Background noise,Speech rate,Emotion,Pauses or breathing sounds"
+en,True,NoiseAdded-interior20/en/audio4356.wav,NoiseAdded-interior20_en_4356,DDM-vc,NoiseAdded-interior20,1,1,1,1,"Emotion,发音电流音以及奇怪的噪声"
+en,True,expfade20/en/audio166.wav,expfade20_en_166,anytospeech,expfade20,1,1,1,1,"Emotion,微弱电流声，标准合成的音色腔调"
+en,False,NoiseAdded-animal20/en/audio1719.wav,NoiseAdded-animal20_en_1719,real,NoiseAdded-animal20,0,-1,1,-1,
+en,False,logfade20/en/audio3782.wav,logfade20_en_3782,real,logfade20,1,-1,1,-1,
+en,True,NoiseAdded-animal25/en/audio6034.wav,NoiseAdded-animal25_en_6034,DiffHiervc,NoiseAdded-animal25,0,3,1,1,"Speech rate,Pauses or breathing sounds"
+en,False,volume125/en/audio4830.wav,volume125_en_4830,real,volume125,0,-1,1,-1,
+en,True,linefade10/en/audio4256.wav,linefade10_en_4256,speechgen,linefade10,0,2,1,1,"Speech rate,Emotion"
+en,False,volume50/en/audio1674.wav,volume50_en_1674,real,volume50,0,-1,1,-1,
+en,True,NoiseAdded-interior15/en/audio1837.wav,NoiseAdded-interior15_en_1837,textmagic,NoiseAdded-interior15,0,2,1,1,"Speech rate,Emotion,音频太短了，难以判断（上一条也是忘了加）"
+en,True,NoiseAdded-human20/en/audio429.wav,NoiseAdded-human20_en_429,fakeyou,NoiseAdded-human20,1,1,1,1,"Emotion,电流音非常重，发音不清"
+en,False,NoiseAdded-natural25/en/audio1893.wav,NoiseAdded-natural25_en_1893,real,NoiseAdded-natural25,0,-1,1,-1,
+en,True,TimeScaling105/en/audio13318.wav,TimeScaling105_en_13318,ChatTTS,TimeScaling105,0,3,1,1,"Emotion,Pauses or breathing sounds,音调变化太逼真了，另外被裁剪过太短了"
+en,False,gaussadded25/en/audio1050.wav,gaussadded25_en_1050,real,gaussadded25,0,-1,1,-1,
+en,True,linefade30/en/audio13598.wav,linefade30_en_13598,ChatTTS,linefade30,0,2,1,1,"Voice volume,太短了，fading过重听不到信息"
+en,False,NoiseAdded-animal25/en/audio13365.wav,NoiseAdded-animal25_en_13365,real,NoiseAdded-animal25,0,-1,1,-1,
+en,True,Alldataset32K/en/audio13232.wav,Alldataset32K_en_13232,ChatTTS,Alldataset32K,0,2,1,1,"Emotion,Pauses or breathing sounds"
+en,True,logfade10/en/audio1513.wav,logfade10_en_1513,freetts,logfade10,1,2,1,1,"Emotion,电流声"
+en,False,TimeScaling95/en/audio3691.wav,TimeScaling95_en_3691,real,TimeScaling95,1,-1,1,-1,
+en,True,NoiseAdded-exterior15/en/audio1593.wav,NoiseAdded-exterior15_en_1593,freetts,NoiseAdded-exterior15,0,2,1,1,"Background noise,Emotion"
+en,False,expfade30/en/audio3796.wav,expfade30_en_3796,real,expfade30,0,-1,1,-1,
+en,True,linefade20/en/audio5135.wav,linefade20_en_5135,voicemaker,linefade20,0,3,1,1,"Speech rate,Pauses or breathing sounds"
+en,True,NoiseAdded-interior25/en/audio6132.wav,NoiseAdded-interior25_en_6132,xtts_v2,NoiseAdded-interior25,0,2,1,1,Pauses or breathing sounds
+en,False,NoiseAdded-exterior15/en/audio13392.wav,NoiseAdded-exterior15_en_13392,real,NoiseAdded-exterior15,1,-1,1,-1,
+en,False,logfade10/en/audio2196.wav,logfade10_en_2196,real,logfade10,0,-1,1,-1,
+en,True,logfade30/en/audio5342.wav,logfade30_en_5342,fakeyou,logfade30,0,2,1,1,太短了，fading听不清
+en,False,volume150/en/audio4916.wav,volume150_en_4916,real,volume150,0,-1,1,-1,
+en,True,NoiseAdded-natural20/en/audio643.wav,NoiseAdded-natural20_en_643,DDM-vc,NoiseAdded-natural20,1,1,1,1,"Emotion,电流声"
+en,False,NoiseAdded-human20/en/audio5216.wav,NoiseAdded-human20_en_5216,real,NoiseAdded-human20,0,-1,1,-1,
+en,True,Re-Alldataset/en/audio258.wav,Re-Alldataset_en_258,styletts,Re-Alldataset,0,3,1,1,"Speech rate,Emotion,Pauses or breathing sounds,Echo 效果"
+en,False,gaussadded20/en/audio3429.wav,gaussadded20_en_3429,real,gaussadded20,0,-1,1,-1,
+en,False,NoiseAdded-interior15/en/audio3961.wav,NoiseAdded-interior15_en_3961,real,NoiseAdded-interior15,0,-1,1,-1,
+en,True,NoiseAdded-exterior20/en/audio212.wav,NoiseAdded-exterior20_en_212,RBVC,NoiseAdded-exterior20,0,2,1,1,"Background noise,Emotion,Pauses or breathing sounds"

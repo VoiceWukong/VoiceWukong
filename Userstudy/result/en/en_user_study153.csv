@@ -1,0 +1,79 @@
+language,fake_or_real,path,id,source,variant,user_choice,user_score,have_answered,have_scored,cause
+en,False,expfade10/en/audio5126.wav,expfade10_en_5126,real,expfade10,1,-1,1,-1,
+en,True,NoiseAdded-natural20/en/audio6401.wav,NoiseAdded-natural20_en_6401,naturalreader,NoiseAdded-natural20,0,3,1,1,"Speech rate,像英语听力"
+en,True,NoiseAdded-natural15/en/audio2015.wav,NoiseAdded-natural15_en_2015,resemble-AI,NoiseAdded-natural15,0,3,1,1,像英语听力
+en,False,NoiseAdded-animal15/en/audio5323.wav,NoiseAdded-animal15_en_5323,real,NoiseAdded-animal15,0,-1,1,-1,
+en,True,NoiseAdded-interior25/en/audio1602.wav,NoiseAdded-interior25_en_1602,DDM-vc,NoiseAdded-interior25,1,2,1,1,Background noise
+en,True,NoiseAdded-natural25/en/audio1962.wav,NoiseAdded-natural25_en_1962,playht,NoiseAdded-natural25,0,1,1,1,Emotion
+en,True,expfade30/en/audio5347.wav,expfade30_en_5347,xtts_v2,expfade30,1,3,1,1,句子不完整，感觉是截取真人的
+en,True,volume50/en/audio3487.wav,volume50_en_3487,openai,volume50,0,3,1,1,Emotion
+en,False,expfade30/en/audio5885.wav,expfade30_en_5885,real,expfade30,1,-1,1,-1,
+en,False,NoiseAdded-human20/en/audio2352.wav,NoiseAdded-human20_en_2352,real,NoiseAdded-human20,0,-1,1,-1,
+en,False,Alldataset44k/en/audio1503.wav,Alldataset44k_en_1503,real,Alldataset44k,0,-1,1,-1,
+en,True,logfade10/en/audio5898.wav,logfade10_en_5898,naturalreader,logfade10,0,1,1,1,Emotion
+en,False,volume75/en/audio1771.wav,volume75_en_1771,real,volume75,0,-1,1,-1,
+en,False,NoiseAdded-exterior25/en/audio1580.wav,NoiseAdded-exterior25_en_1580,real,NoiseAdded-exterior25,1,-1,1,-1,
+en,False,NoiseAdded-interior15/en/audio4805.wav,NoiseAdded-interior15_en_4805,real,NoiseAdded-interior15,0,-1,1,-1,
+en,False,NoiseAdded-natural15/en/audio5997.wav,NoiseAdded-natural15_en_5997,real,NoiseAdded-natural15,0,-1,1,-1,
+en,True,volume150/en/audio3104.wav,volume150_en_3104,tortoise-tts,volume150,0,3,1,1,Emotion
+en,False,NoiseAdded-natural25/en/audio1428.wav,NoiseAdded-natural25_en_1428,real,NoiseAdded-natural25,1,-1,1,-1,
+en,False,expfade20/en/audio5162.wav,expfade20_en_5162,real,expfade20,0,-1,1,-1,
+en,True,NoiseAdded-exterior20/en/audio5135.wav,NoiseAdded-exterior20_en_5135,voicemaker,NoiseAdded-exterior20,0,3,1,1,正常播音腔，不像机器人
+en,True,Alldataset32K/en/audio4467.wav,Alldataset32K_en_4467,resemble-AI,Alldataset32K,0,1,1,1,Emotion
+en,False,TimeScaling95/en/audio1133.wav,TimeScaling95_en_1133,real,TimeScaling95,1,-1,1,-1,
+en,True,linefade30/en/audio4889.wav,linefade30_en_4889,Bark,linefade30,0,1,1,1,Speech rate
+en,False,linefade10/en/audio6350.wav,linefade10_en_6350,real,linefade10,0,-1,1,-1,
+en,False,NoiseAdded-interior20/en/audio3740.wav,NoiseAdded-interior20_en_3740,real,NoiseAdded-interior20,0,-1,1,-1,
+en,False,NoiseAdded-human15/en/audio4706.wav,NoiseAdded-human15_en_4706,real,NoiseAdded-human15,1,-1,1,-1,
+en,True,NoiseAdded-human25/en/audio467.wav,NoiseAdded-human25_en_467,voiser,NoiseAdded-human25,1,2,1,1,Background noise
+en,False,NoiseAdded-animal20/en/audio283.wav,NoiseAdded-animal20_en_283,real,NoiseAdded-animal20,0,-1,1,-1,
+en,False,logfade10/en/audio2410.wav,logfade10_en_2410,real,logfade10,0,-1,1,-1,
+en,True,volume125/en/audio3218.wav,volume125_en_3218,OpenVoice,volume125,0,3,1,1,像新闻播音，不像合成
+en,False,NoiseAdded-natural20/en/audio341.wav,NoiseAdded-natural20_en_341,real,NoiseAdded-natural20,0,-1,1,-1,
+en,True,TimeScaling105/en/audio4973.wav,TimeScaling105_en_4973,playht,TimeScaling105,0,3,1,1,像高考听力，不像合成
+en,False,Alldataset32K/en/audio646.wav,Alldataset32K_en_646,real,Alldataset32K,0,-1,1,-1,
+en,False,TimeScaling105/en/audio332.wav,TimeScaling105_en_332,real,TimeScaling105,0,-1,1,-1,
+en,True,NoiseAdded-animal15/en/audio5783.wav,NoiseAdded-animal15_en_5783,aivoov,NoiseAdded-animal15,0,3,1,1,像高考听力，不像合成
+en,True,NoiseAdded-exterior15/en/audio2832.wav,NoiseAdded-exterior15_en_2832,vallex,NoiseAdded-exterior15,0,3,1,1,"Background noise,Emotion"
+en,True,logfade30/en/audio13315.wav,logfade30_en_13315,ChatTTS,logfade30,0,3,1,1,太短了
+en,False,NoiseAdded-animal25/en/audio5491.wav,NoiseAdded-animal25_en_5491,real,NoiseAdded-animal25,0,-1,1,-1,
+en,True,gaussadded15/en/audio1694.wav,gaussadded15_en_1694,freetts,gaussadded15,0,1,1,1,Background noise
+en,False,logfade20/en/audio6174.wav,logfade20_en_6174,real,logfade20,0,-1,1,-1,
+en,True,TimeScaling90/en/audio852.wav,TimeScaling90_en_852,speechgen,TimeScaling90,1,1,1,1,Emotion
+en,False,gaussadded20/en/audio3281.wav,gaussadded20_en_3281,real,gaussadded20,0,-1,1,-1,
+en,True,Alldataset44k/en/audio13419.wav,Alldataset44k_en_13419,ChatTTS,Alldataset44k,1,1,1,1,Pauses or breathing sounds
+en,True,NoiseAdded-interior20/en/audio4951.wav,NoiseAdded-interior20_en_4951,openai,NoiseAdded-interior20,0,3,1,1,像纪录片
+en,False,volume125/en/audio5180.wav,volume125_en_5180,real,volume125,0,-1,1,-1,
+en,True,logfade20/en/audio6303.wav,logfade20_en_6303,tortoise-tts,logfade20,1,1,1,1,Pauses or breathing sounds
+en,False,TimeScaling90/en/audio6260.wav,TimeScaling90_en_6260,real,TimeScaling90,1,-1,1,-1,
+en,False,linefade30/en/audio1331.wav,linefade30_en_1331,real,linefade30,0,-1,1,-1,
+en,False,NoiseAdded-interior25/en/audio5359.wav,NoiseAdded-interior25_en_5359,real,NoiseAdded-interior25,0,-1,1,-1,
+en,False,Alldataset/en/audio273.wav,Alldataset_en_273,real,Alldataset,0,-1,1,-1,
+en,False,NoiseAdded-exterior20/en/audio5828.wav,NoiseAdded-exterior20_en_5828,real,NoiseAdded-exterior20,0,-1,1,-1,
+en,True,NoiseAdded-exterior25/en/audio3778.wav,NoiseAdded-exterior25_en_3778,openai,NoiseAdded-exterior25,0,1,1,1,Pauses or breathing sounds
+en,True,volume75/en/audio1541.wav,volume75_en_1541,unmixr,volume75,0,3,1,1,Emotion
+en,False,TimeScaling110/en/audio3934.wav,TimeScaling110_en_3934,real,TimeScaling110,1,-1,1,-1,
+en,False,NoiseAdded-exterior15/en/audio3711.wav,NoiseAdded-exterior15_en_3711,real,NoiseAdded-exterior15,0,-1,1,-1,
+en,False,logfade30/en/audio2366.wav,logfade30_en_2366,real,logfade30,0,-1,1,-1,
+en,True,gaussadded20/en/audio1003.wav,gaussadded20_en_1003,DiffHiervc,gaussadded20,0,3,1,1,Emotion
+en,False,gaussadded25/en/audio5242.wav,gaussadded25_en_5242,real,gaussadded25,0,-1,1,-1,
+en,False,gaussadded15/en/audio1505.wav,gaussadded15_en_1505,real,gaussadded15,0,-1,1,-1,
+en,False,volume50/en/audio1802.wav,volume50_en_1802,real,volume50,0,-1,1,-1,
+en,True,gaussadded25/en/audio2473.wav,gaussadded25_en_2473,OpenVoice,gaussadded25,0,1,1,1,Pauses or breathing sounds
+en,True,NoiseAdded-human20/en/audio2917.wav,NoiseAdded-human20_en_2917,unmixr,NoiseAdded-human20,0,1,1,1,Emotion
+en,True,TimeScaling110/en/audio5153.wav,TimeScaling110_en_5153,naturalreader,TimeScaling110,0,3,1,1,Emotion
+en,True,TimeScaling95/en/audio310.wav,TimeScaling95_en_310,voicemaker,TimeScaling95,1,3,1,1,Emotion
+en,False,Re-Alldataset/en/audio3765.wav,Re-Alldataset_en_3765,real,Re-Alldataset,0,-1,1,-1,
+en,False,NoiseAdded-human25/en/audio5074.wav,NoiseAdded-human25_en_5074,real,NoiseAdded-human25,0,-1,1,-1,
+en,True,NoiseAdded-animal20/en/audio5480.wav,NoiseAdded-animal20_en_5480,GPT_SoVITS,NoiseAdded-animal20,0,3,1,1,Background noise
+en,True,Alldataset/en/audio4465.wav,Alldataset_en_4465,Bark,Alldataset,0,3,1,1,"Emotion,Pauses or breathing sounds"
+en,True,Re-Alldataset/en/audio4360.wav,Re-Alldataset_en_4360,vitstts,Re-Alldataset,0,3,1,1,Pauses or breathing sounds
+en,True,linefade10/en/audio458.wav,linefade10_en_458,audyo,linefade10,0,3,1,1,Speech rate
+en,True,expfade10/en/audio13406.wav,expfade10_en_13406,ChatTTS,expfade10,1,1,1,1,Pauses or breathing sounds
+en,True,NoiseAdded-human15/en/audio4376.wav,NoiseAdded-human15_en_4376,Bark,NoiseAdded-human15,0,3,1,1,Background noise
+en,False,volume150/en/audio3662.wav,volume150_en_3662,real,volume150,0,-1,1,-1,
+en,True,linefade20/en/audio804.wav,linefade20_en_804,RBVC,linefade20,0,3,1,1,Emotion
+en,True,expfade20/en/audio323.wav,expfade20_en_323,fakeyou,expfade20,1,1,1,1,Pauses or breathing sounds
+en,False,linefade20/en/audio4713.wav,linefade20_en_4713,real,linefade20,0,-1,1,-1,
+en,True,NoiseAdded-animal25/en/audio3347.wav,NoiseAdded-animal25_en_3347,audyo,NoiseAdded-animal25,0,1,1,1,Emotion
+en,True,NoiseAdded-interior15/en/audio708.wav,NoiseAdded-interior15_en_708,aivoov,NoiseAdded-interior15,0,3,1,1,Background noise

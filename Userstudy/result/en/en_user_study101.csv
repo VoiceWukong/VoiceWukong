@@ -1,0 +1,79 @@
+language,fake_or_real,path,id,source,variant,user_choice,user_score,have_answered,have_scored,cause
+en,True,TimeScaling95/en/audio6523.wav,TimeScaling95_en_6523,texttovoice,TimeScaling95,1,2,1,1,"Speech rate,Emotion"
+en,False,NoiseAdded-exterior20/en/audio1620.wav,NoiseAdded-exterior20_en_1620,real,NoiseAdded-exterior20,0,-1,1,-1,
+en,True,expfade30/en/audio1029.wav,expfade30_en_1029,speechgen,expfade30,0,1,1,1,"Speech rate,开头和结束是没有完全录清楚的。因为我是做语音欺骗检测的，据我所知语音的开头和结尾部分是真实语音和伪造语音差别较大的地方。这段语音因为没有清楚的录制开头和结束，所以我比较怀疑是伪造的语音。当然，语音的语速也有一部分听起来怪一点，不过质量还是比较高的。如果是一段完整的语音我可能没办法很有自信的确定是伪造语音."
+en,True,NoiseAdded-exterior25/en/audio6194.wav,NoiseAdded-exterior25_en_6194,texttovoice,NoiseAdded-exterior25,0,3,1,1,Emotion
+en,False,NoiseAdded-natural20/en/audio4760.wav,NoiseAdded-natural20_en_4760,real,NoiseAdded-natural20,0,-1,1,-1,
+en,False,gaussadded20/en/audio1738.wav,gaussadded20_en_1738,real,gaussadded20,0,-1,1,-1,
+en,False,NoiseAdded-natural25/en/audio2377.wav,NoiseAdded-natural25_en_2377,real,NoiseAdded-natural25,0,-1,1,-1,
+en,True,gaussadded25/en/audio524.wav,gaussadded25_en_524,resemble-AI,gaussadded25,0,2,1,1,"Background noise,我觉得这段语音杂音比较大，没办法让人耳准确分辨是真实语音还是伪造的"
+en,False,linefade20/en/audio4719.wav,linefade20_en_4719,real,linefade20,1,-1,1,-1,
+en,True,logfade20/en/audio2707.wav,logfade20_en_2707,vallex,logfade20,0,3,1,1,"Voice volume,Speech rate,Emotion"
+en,False,linefade30/en/audio6015.wav,linefade30_en_6015,real,linefade30,0,-1,1,-1,
+en,False,NoiseAdded-exterior15/en/audio377.wav,NoiseAdded-exterior15_en_377,real,NoiseAdded-exterior15,0,-1,1,-1,
+en,False,expfade30/en/audio918.wav,expfade30_en_918,real,expfade30,1,-1,1,-1,
+en,True,NoiseAdded-human15/en/audio2178.wav,NoiseAdded-human15_en_2178,elevenlabs,NoiseAdded-human15,0,3,1,1,"Speech rate,Emotion"
+en,True,Alldataset/en/audio6090.wav,Alldataset_en_6090,vallex,Alldataset,1,1,1,1,"Background noise,idea这个单词结尾有很明显的机器声"
+en,False,NoiseAdded-interior15/en/audio2245.wav,NoiseAdded-interior15_en_2245,real,NoiseAdded-interior15,0,-1,1,-1,
+en,False,NoiseAdded-interior25/en/audio4886.wav,NoiseAdded-interior25_en_4886,real,NoiseAdded-interior25,0,-1,1,-1,
+en,True,volume75/en/audio546.wav,volume75_en_546,diffganTTS,volume75,1,1,1,1,这和上一个比整段语音我听起来都是机器声
+en,False,volume125/en/audio2371.wav,volume125_en_2371,real,volume125,0,-1,1,-1,
+en,False,expfade20/en/audio3516.wav,expfade20_en_3516,real,expfade20,0,-1,1,-1,
+en,False,NoiseAdded-animal25/en/audio3452.wav,NoiseAdded-animal25_en_3452,real,NoiseAdded-animal25,0,-1,1,-1,
+en,False,volume50/en/audio4857.wav,volume50_en_4857,real,volume50,0,-1,1,-1,
+en,True,expfade10/en/audio3196.wav,expfade10_en_3196,freetts,expfade10,0,3,1,1,"Voice volume,Speech rate,Emotion"
+en,False,NoiseAdded-exterior25/en/audio1480.wav,NoiseAdded-exterior25_en_1480,real,NoiseAdded-exterior25,0,-1,1,-1,
+en,True,linefade30/en/audio1971.wav,linefade30_en_1971,GPT_SoVITS,linefade30,0,2,1,1,"Emotion,这个音调比较低，而且没什么起伏，按照频谱来判断很有可能是机器声，但是现实生活中确实有人说话就是很低，所以我判断不出来"
+en,False,gaussadded25/en/audio1434.wav,gaussadded25_en_1434,real,gaussadded25,1,-1,1,-1,
+en,False,TimeScaling90/en/audio3199.wav,TimeScaling90_en_3199,real,TimeScaling90,0,-1,1,-1,
+en,True,NoiseAdded-natural25/en/audio6186.wav,NoiseAdded-natural25_en_6186,anytospeech,NoiseAdded-natural25,0,3,1,1,"Background noise,Speech rate"
+en,False,NoiseAdded-human25/en/audio1492.wav,NoiseAdded-human25_en_1492,real,NoiseAdded-human25,1,-1,1,-1,
+en,False,Alldataset32K/en/audio5072.wav,Alldataset32K_en_5072,real,Alldataset32K,0,-1,1,-1,
+en,True,Alldataset32K/en/audio4212.wav,Alldataset32K_en_4212,freetts,Alldataset32K,0,3,1,1,"Speech rate,Emotion"
+en,True,volume50/en/audio4139.wav,volume50_en_4139,styletts,volume50,0,3,1,1,"Voice volume,Speech rate,Emotion"
+en,False,TimeScaling95/en/audio4999.wav,TimeScaling95_en_4999,real,TimeScaling95,1,-1,1,-1,
+en,True,linefade20/en/audio4465.wav,linefade20_en_4465,Bark,linefade20,1,1,1,1,"Background noise,Speech rate,语速不像真人，而且有明显的背景噪音"
+en,False,volume75/en/audio6374.wav,volume75_en_6374,real,volume75,0,-1,1,-1,
+en,True,gaussadded15/en/audio1158.wav,gaussadded15_en_1158,DiffHiervc,gaussadded15,1,2,1,1,"Background noise,背景噪声太大了，我不确定是录制的时候真实的噪音，还是为了掩盖伪造痕迹后加的"
+en,True,Alldataset44k/en/audio200.wav,Alldataset44k_en_200,DiffHiervc,Alldataset44k,1,1,1,1,Background noise
+en,True,Re-Alldataset/en/audio258.wav,Re-Alldataset_en_258,styletts,Re-Alldataset,0,3,1,1,Speech rate
+en,True,NoiseAdded-exterior20/en/audio6421.wav,NoiseAdded-exterior20_en_6421,QuickVC,NoiseAdded-exterior20,1,1,1,1,这机器声太重了
+en,True,NoiseAdded-animal25/en/audio6079.wav,NoiseAdded-animal25_en_6079,fakeyou,NoiseAdded-animal25,0,3,1,1,"Background noise,Speech rate,Emotion"
+en,True,volume150/en/audio2005.wav,volume150_en_2005,voiser,volume150,0,3,1,1,"Speech rate,Emotion"
+en,True,linefade10/en/audio2083.wav,linefade10_en_2083,texttovoice,linefade10,0,3,1,1,"Voice volume,Speech rate,Emotion"
+en,True,TimeScaling105/en/audio4791.wav,TimeScaling105_en_4791,playht,TimeScaling105,0,3,1,1,"Speech rate,Emotion,语速和情感都很真实。如果是合成算法伪造的这个语音很不错了"
+en,True,gaussadded20/en/audio1894.wav,gaussadded20_en_1894,OpenVoice,gaussadded20,1,3,1,1,"Background noise,Emotion"
+en,False,expfade10/en/audio433.wav,expfade10_en_433,real,expfade10,0,-1,1,-1,
+en,True,logfade30/en/audio2511.wav,logfade30_en_2511,styletts,logfade30,0,1,1,1,还是之前那个问题，开头和结尾被截掉了，让我比较怀疑
+en,True,expfade20/en/audio517.wav,expfade20_en_517,tortoise-tts,expfade20,0,3,1,1,"Background noise,Speech rate,Emotion"
+en,True,logfade10/en/audio208.wav,logfade10_en_208,voiser,logfade10,0,3,1,1,"Background noise,Speech rate,Emotion,Pauses or breathing sounds"
+en,False,Alldataset44k/en/audio1450.wav,Alldataset44k_en_1450,real,Alldataset44k,0,-1,1,-1,
+en,True,NoiseAdded-human20/en/audio4535.wav,NoiseAdded-human20_en_4535,freetts,NoiseAdded-human20,0,3,1,1,Emotion
+en,True,NoiseAdded-interior15/en/audio736.wav,NoiseAdded-interior15_en_736,anytospeech,NoiseAdded-interior15,0,3,1,1,"Background noise,Voice volume,Speech rate,Emotion"
+en,False,logfade10/en/audio5034.wav,logfade10_en_5034,real,logfade10,0,-1,1,-1,
+en,True,TimeScaling90/en/audio2658.wav,TimeScaling90_en_2658,StarGan,TimeScaling90,0,1,1,1,"Voice volume,机器声比较重"
+en,False,gaussadded15/en/audio3064.wav,gaussadded15_en_3064,real,gaussadded15,0,-1,1,-1,
+en,False,NoiseAdded-animal15/en/audio1615.wav,NoiseAdded-animal15_en_1615,real,NoiseAdded-animal15,1,-1,1,-1,
+en,False,linefade10/en/audio4115.wav,linefade10_en_4115,real,linefade10,0,-1,1,-1,
+en,True,NoiseAdded-interior20/en/audio3048.wav,NoiseAdded-interior20_en_3048,QuickVC,NoiseAdded-interior20,0,3,1,1,"Background noise,Speech rate,Emotion"
+en,False,logfade20/en/audio1620.wav,logfade20_en_1620,real,logfade20,0,-1,1,-1,
+en,True,TimeScaling110/en/audio3285.wav,TimeScaling110_en_3285,unmixr,TimeScaling110,0,3,1,1,"Speech rate,Emotion"
+en,False,NoiseAdded-natural15/en/audio4002.wav,NoiseAdded-natural15_en_4002,real,NoiseAdded-natural15,0,-1,1,-1,
+en,False,NoiseAdded-interior20/en/audio6124.wav,NoiseAdded-interior20_en_6124,real,NoiseAdded-interior20,0,-1,1,-1,
+en,False,TimeScaling105/en/audio353.wav,TimeScaling105_en_353,real,TimeScaling105,1,-1,1,-1,
+en,False,Re-Alldataset/en/audio266.wav,Re-Alldataset_en_266,real,Re-Alldataset,1,-1,1,-1,
+en,True,NoiseAdded-human25/en/audio3534.wav,NoiseAdded-human25_en_3534,texttovoice,NoiseAdded-human25,0,2,1,1,开头有一段杂音好像不是环境噪音，可能是合成的时候多出来的
+en,False,NoiseAdded-animal20/en/audio5794.wav,NoiseAdded-animal20_en_5794,real,NoiseAdded-animal20,0,-1,1,-1,
+en,False,TimeScaling110/en/audio353.wav,TimeScaling110_en_353,real,TimeScaling110,0,-1,1,-1,
+en,True,NoiseAdded-exterior15/en/audio1166.wav,NoiseAdded-exterior15_en_1166,OpenVoice,NoiseAdded-exterior15,0,3,1,1,"Voice volume,Emotion"
+en,True,volume125/en/audio2859.wav,volume125_en_2859,aivoov,volume125,0,3,1,1,"Background noise,Voice volume,Emotion"
+en,True,NoiseAdded-interior25/en/audio4289.wav,NoiseAdded-interior25_en_4289,voiser,NoiseAdded-interior25,1,3,1,1,"Speech rate,Emotion"
+en,False,volume150/en/audio2549.wav,volume150_en_2549,real,volume150,0,-1,1,-1,
+en,True,NoiseAdded-animal20/en/audio3534.wav,NoiseAdded-animal20_en_3534,texttovoice,NoiseAdded-animal20,0,3,1,1,"Background noise,Voice volume,Speech rate,Emotion"
+en,False,logfade30/en/audio13455.wav,logfade30_en_13455,real,logfade30,0,-1,1,-1,
+en,False,NoiseAdded-human20/en/audio2489.wav,NoiseAdded-human20_en_2489,real,NoiseAdded-human20,0,-1,1,-1,
+en,True,NoiseAdded-natural15/en/audio2361.wav,NoiseAdded-natural15_en_2361,openai,NoiseAdded-natural15,0,3,1,1,"Speech rate,Emotion"
+en,True,NoiseAdded-animal15/en/audio1660.wav,NoiseAdded-animal15_en_1660,StarGan,NoiseAdded-animal15,1,3,1,1,Background noise
+en,True,NoiseAdded-natural20/en/audio5317.wav,NoiseAdded-natural20_en_5317,RBVC,NoiseAdded-natural20,0,2,1,1,friendly结尾有一小段机器声，我听了好几次
+en,False,NoiseAdded-human15/en/audio13347.wav,NoiseAdded-human15_en_13347,real,NoiseAdded-human15,0,-1,1,-1,
+en,False,Alldataset/en/audio4863.wav,Alldataset_en_4863,real,Alldataset,0,-1,1,-1,

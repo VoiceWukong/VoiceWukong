@@ -1,0 +1,79 @@
+language,fake_or_real,path,id,source,variant,user_choice,user_score,have_answered,have_scored,cause
+en,True,NoiseAdded-human15/en/audio5117.wav,NoiseAdded-human15_en_5117,voxify,NoiseAdded-human15,1,1,1,1,Background noise
+en,False,expfade20/en/audio900.wav,expfade20_en_900,real,expfade20,0,-1,1,-1,
+en,True,NoiseAdded-human20/en/audio1230.wav,NoiseAdded-human20_en_1230,speechgen,NoiseAdded-human20,1,1,1,1,Pauses or breathing sounds
+en,True,gaussadded15/en/audio2619.wav,gaussadded15_en_2619,speakperfect,gaussadded15,1,1,1,1,Pauses or breathing sounds
+en,False,NoiseAdded-human25/en/audio1627.wav,NoiseAdded-human25_en_1627,real,NoiseAdded-human25,0,-1,1,-1,
+en,True,Alldataset32K/en/audio13232.wav,Alldataset32K_en_13232,ChatTTS,Alldataset32K,0,3,1,1,"Speech rate,Pauses or breathing sounds"
+en,False,gaussadded20/en/audio4075.wav,gaussadded20_en_4075,real,gaussadded20,1,-1,1,-1,
+en,False,TimeScaling105/en/audio2322.wav,TimeScaling105_en_2322,real,TimeScaling105,0,-1,1,-1,
+en,False,NoiseAdded-exterior15/en/audio4104.wav,NoiseAdded-exterior15_en_4104,real,NoiseAdded-exterior15,1,-1,1,-1,
+en,True,volume75/en/audio3513.wav,volume75_en_3513,voiser,volume75,1,1,1,1,Pauses or breathing sounds
+en,False,NoiseAdded-animal15/en/audio2119.wav,NoiseAdded-animal15_en_2119,real,NoiseAdded-animal15,1,-1,1,-1,
+en,True,NoiseAdded-animal15/en/audio1851.wav,NoiseAdded-animal15_en_1851,vallex,NoiseAdded-animal15,1,1,1,1,"Background noise,Pauses or breathing sounds"
+en,True,NoiseAdded-exterior25/en/audio1549.wav,NoiseAdded-exterior25_en_1549,styletts,NoiseAdded-exterior25,0,3,1,1,"Emotion,Pauses or breathing sounds"
+en,False,gaussadded25/en/audio2322.wav,gaussadded25_en_2322,real,gaussadded25,0,-1,1,-1,
+en,False,NoiseAdded-human20/en/audio882.wav,NoiseAdded-human20_en_882,real,NoiseAdded-human20,0,-1,1,-1,
+en,False,NoiseAdded-exterior20/en/audio6410.wav,NoiseAdded-exterior20_en_6410,real,NoiseAdded-exterior20,1,-1,1,-1,
+en,True,logfade30/en/audio104.wav,logfade30_en_104,vallex,logfade30,1,3,1,1,Pauses or breathing sounds
+en,False,expfade30/en/audio639.wav,expfade30_en_639,real,expfade30,0,-1,1,-1,
+en,False,Re-Alldataset/en/audio2581.wav,Re-Alldataset_en_2581,real,Re-Alldataset,0,-1,1,-1,
+en,True,expfade20/en/audio2615.wav,expfade20_en_2615,playht,expfade20,0,3,1,1,"Emotion,Pauses or breathing sounds"
+en,True,volume150/en/audio3457.wav,volume150_en_3457,xtts_v2,volume150,1,2,1,1,Pauses or breathing sounds
+en,True,NoiseAdded-exterior20/en/audio2859.wav,NoiseAdded-exterior20_en_2859,aivoov,NoiseAdded-exterior20,1,1,1,1,"Background noise,Emotion,Pauses or breathing sounds"
+en,True,linefade30/en/audio2376.wav,linefade30_en_2376,voxify,linefade30,1,1,1,1,Pauses or breathing sounds
+en,True,expfade30/en/audio5197.wav,expfade30_en_5197,resemble-AI,expfade30,1,3,1,1,
+en,False,NoiseAdded-human15/en/audio3266.wav,NoiseAdded-human15_en_3266,real,NoiseAdded-human15,1,-1,1,-1,
+en,True,gaussadded25/en/audio6030.wav,gaussadded25_en_6030,speakperfect,gaussadded25,1,2,1,1,Pauses or breathing sounds
+en,True,linefade10/en/audio4593.wav,linefade10_en_4593,googleapi,linefade10,1,1,1,1,Pauses or breathing sounds
+en,True,NoiseAdded-natural20/en/audio6401.wav,NoiseAdded-natural20_en_6401,naturalreader,NoiseAdded-natural20,1,1,1,1,"Background noise,Pauses or breathing sounds"
+en,False,logfade30/en/audio1285.wav,logfade30_en_1285,real,logfade30,0,-1,1,-1,
+en,False,Alldataset/en/audio3118.wav,Alldataset_en_3118,real,Alldataset,1,-1,1,-1,
+en,True,volume125/en/audio6478.wav,volume125_en_6478,tortoise-tts,volume125,0,2,1,1,Pauses or breathing sounds
+en,False,NoiseAdded-natural25/en/audio163.wav,NoiseAdded-natural25_en_163,real,NoiseAdded-natural25,0,-1,1,-1,
+en,False,NoiseAdded-natural15/en/audio196.wav,NoiseAdded-natural15_en_196,real,NoiseAdded-natural15,0,-1,1,-1,
+en,False,NoiseAdded-animal25/en/audio2259.wav,NoiseAdded-animal25_en_2259,real,NoiseAdded-animal25,1,-1,1,-1,
+en,True,logfade10/en/audio1904.wav,logfade10_en_1904,openai,logfade10,0,2,1,1,Pauses or breathing sounds
+en,True,TimeScaling105/en/audio13318.wav,TimeScaling105_en_13318,ChatTTS,TimeScaling105,1,1,1,1,Pauses or breathing sounds
+en,False,TimeScaling90/en/audio1087.wav,TimeScaling90_en_1087,real,TimeScaling90,1,-1,1,-1,
+en,True,NoiseAdded-human25/en/audio4067.wav,NoiseAdded-human25_en_4067,textmagic,NoiseAdded-human25,1,1,1,1,Pauses or breathing sounds
+en,True,NoiseAdded-animal25/en/audio2566.wav,NoiseAdded-animal25_en_2566,DDM-vc,NoiseAdded-animal25,1,1,1,1,"Background noise,Pauses or breathing sounds"
+en,True,NoiseAdded-natural25/en/audio643.wav,NoiseAdded-natural25_en_643,DDM-vc,NoiseAdded-natural25,1,2,1,1,Background noise
+en,True,TimeScaling95/en/audio1084.wav,TimeScaling95_en_1084,DDM-vc,TimeScaling95,1,1,1,1,Pauses or breathing sounds
+en,False,NoiseAdded-interior20/en/audio3971.wav,NoiseAdded-interior20_en_3971,real,NoiseAdded-interior20,0,-1,1,-1,
+en,False,NoiseAdded-natural20/en/audio5175.wav,NoiseAdded-natural20_en_5175,real,NoiseAdded-natural20,1,-1,1,-1,
+en,False,volume125/en/audio5562.wav,volume125_en_5562,real,volume125,0,-1,1,-1,
+en,False,linefade30/en/audio717.wav,linefade30_en_717,real,linefade30,0,-1,1,-1,
+en,False,volume150/en/audio844.wav,volume150_en_844,real,volume150,0,-1,1,-1,
+en,True,expfade10/en/audio4618.wav,expfade10_en_4618,playht,expfade10,1,1,1,1,Pauses or breathing sounds
+en,True,NoiseAdded-interior25/en/audio3405.wav,NoiseAdded-interior25_en_3405,unmixr,NoiseAdded-interior25,1,1,1,1,Background noise
+en,False,logfade10/en/audio6410.wav,logfade10_en_6410,real,logfade10,0,-1,1,-1,
+en,False,TimeScaling95/en/audio1875.wav,TimeScaling95_en_1875,real,TimeScaling95,1,-1,1,-1,
+en,False,NoiseAdded-animal20/en/audio2801.wav,NoiseAdded-animal20_en_2801,real,NoiseAdded-animal20,1,-1,1,-1,
+en,True,NoiseAdded-natural15/en/audio3494.wav,NoiseAdded-natural15_en_3494,vallex,NoiseAdded-natural15,1,1,1,1,声音抖动，有电流感
+en,False,Alldataset32K/en/audio6519.wav,Alldataset32K_en_6519,real,Alldataset32K,0,-1,1,-1,
+en,True,Alldataset/en/audio4495.wav,Alldataset_en_4495,anytospeech,Alldataset,1,2,1,1,有杂音，正常录制很难出现这样的情况
+en,True,TimeScaling110/en/audio3659.wav,TimeScaling110_en_3659,anytospeech,TimeScaling110,1,1,1,1,Pauses or breathing sounds
+en,False,volume50/en/audio693.wav,volume50_en_693,real,volume50,0,-1,1,-1,
+en,False,logfade20/en/audio1542.wav,logfade20_en_1542,real,logfade20,0,-1,1,-1,
+en,False,linefade20/en/audio3147.wav,linefade20_en_3147,real,linefade20,0,-1,1,-1,
+en,False,Alldataset44k/en/audio3654.wav,Alldataset44k_en_3654,real,Alldataset44k,0,-1,1,-1,
+en,True,NoiseAdded-animal20/en/audio3534.wav,NoiseAdded-animal20_en_3534,texttovoice,NoiseAdded-animal20,1,2,1,1,Emotion
+en,False,NoiseAdded-interior25/en/audio3119.wav,NoiseAdded-interior25_en_3119,real,NoiseAdded-interior25,1,-1,1,-1,
+en,True,NoiseAdded-interior15/en/audio2711.wav,NoiseAdded-interior15_en_2711,openai,NoiseAdded-interior15,1,1,1,1,"Background noise,人声与背景音的混音违和"
+en,True,Re-Alldataset/en/audio4305.wav,Re-Alldataset_en_4305,audyo,Re-Alldataset,1,2,1,1,Background noise
+en,False,expfade10/en/audio260.wav,expfade10_en_260,real,expfade10,0,-1,1,-1,
+en,True,gaussadded20/en/audio6116.wav,gaussadded20_en_6116,audyo,gaussadded20,1,1,1,1,Background noise
+en,True,NoiseAdded-exterior15/en/audio1734.wav,NoiseAdded-exterior15_en_1734,xtts_v2,NoiseAdded-exterior15,0,3,1,1,Emotion
+en,False,NoiseAdded-interior15/en/audio6398.wav,NoiseAdded-interior15_en_6398,real,NoiseAdded-interior15,1,-1,1,-1,
+en,True,logfade20/en/audio3943.wav,logfade20_en_3943,voicemaker,logfade20,0,1,1,1,Pauses or breathing sounds
+en,False,gaussadded15/en/audio5195.wav,gaussadded15_en_5195,real,gaussadded15,0,-1,1,-1,
+en,False,volume75/en/audio6374.wav,volume75_en_6374,real,volume75,0,-1,1,-1,
+en,True,linefade20/en/audio5584.wav,linefade20_en_5584,anytospeech,linefade20,1,1,1,1,声音不干净
+en,True,TimeScaling90/en/audio32.wav,TimeScaling90_en_32,voicemaker,TimeScaling90,1,1,1,1,声音不干净，有电流感
+en,True,Alldataset44k/en/audio4624.wav,Alldataset44k_en_4624,StarGan,Alldataset44k,1,2,1,1,"Emotion,Pauses or breathing sounds"
+en,False,NoiseAdded-exterior25/en/audio5041.wav,NoiseAdded-exterior25_en_5041,real,NoiseAdded-exterior25,0,-1,1,-1,
+en,True,volume50/en/audio2408.wav,volume50_en_2408,DiffHiervc,volume50,1,1,1,1,声音不干净，有电流感
+en,False,linefade10/en/audio222.wav,linefade10_en_222,real,linefade10,0,-1,1,-1,
+en,True,NoiseAdded-interior20/en/audio5575.wav,NoiseAdded-interior20_en_5575,RBVC,NoiseAdded-interior20,1,2,1,1,Background noise
+en,False,TimeScaling110/en/audio3988.wav,TimeScaling110_en_3988,real,TimeScaling110,0,-1,1,-1,

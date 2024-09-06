@@ -1,0 +1,79 @@
+language,fake_or_real,path,id,source,variant,user_choice,user_score,have_answered,have_scored,cause
+en,False,volume150/en/audio775.wav,volume150_en_775,real,volume150,0,-1,1,-1,
+en,False,expfade10/en/audio5539.wav,expfade10_en_5539,real,expfade10,1,-1,1,-1,
+en,True,volume125/en/audio3598.wav,volume125_en_3598,diffganTTS,volume125,1,3,1,1,"Background noise,Voice volume,Laughter or other interjections,Speech rate,Emotion,Pauses or breathing sounds,whether his/her tune likes those listening texts ；whether he/she reads every word too clear; whether he/she reads with incorrect/intentional ↑and ↓tune"
+en,False,NoiseAdded-human25/en/audio731.wav,NoiseAdded-human25_en_731,real,NoiseAdded-human25,0,-1,1,-1,
+en,True,TimeScaling110/en/audio711.wav,TimeScaling110_en_711,xtts_v2,TimeScaling110,0,3,1,1,"Background noise,Voice volume,Laughter or other interjections,Speech rate,Emotion,Pauses or breathing sounds,是否用力过猛，不合理地升降调的是AI；吐字过于清晰，顿挫感明显的是AI"
+en,False,gaussadded15/en/audio1286.wav,gaussadded15_en_1286,real,gaussadded15,1,-1,1,-1,
+en,True,gaussadded20/en/audio6219.wav,gaussadded20_en_6219,vallex,gaussadded20,0,1,1,1,Speech rate
+en,False,NoiseAdded-interior15/en/audio4534.wav,NoiseAdded-interior15_en_4534,real,NoiseAdded-interior15,0,-1,1,-1,
+en,False,NoiseAdded-interior25/en/audio2367.wav,NoiseAdded-interior25_en_2367,real,NoiseAdded-interior25,1,-1,1,-1,
+en,True,linefade10/en/audio3183.wav,linefade10_en_3183,speechgen,linefade10,1,2,1,1,"Voice volume,Speech rate,连读挺顺，但不确定AI是否已经训练到这个地步"
+en,True,NoiseAdded-exterior15/en/audio1697.wav,NoiseAdded-exterior15_en_1697,DiffHiervc,NoiseAdded-exterior15,0,3,1,1,"Background noise,Voice volume,Speech rate"
+en,False,logfade20/en/audio6526.wav,logfade20_en_6526,real,logfade20,0,-1,1,-1,
+en,False,NoiseAdded-natural25/en/audio352.wav,NoiseAdded-natural25_en_352,real,NoiseAdded-natural25,1,-1,1,-1,
+en,False,NoiseAdded-exterior20/en/audio4826.wav,NoiseAdded-exterior20_en_4826,real,NoiseAdded-exterior20,0,-1,1,-1,
+en,True,NoiseAdded-animal25/en/audio4884.wav,NoiseAdded-animal25_en_4884,naturalreader,NoiseAdded-animal25,1,1,1,1,"Voice volume,Speech rate,非常清楚，像在录音棚收音，那应该是AI合成后直接导出的音频"
+en,False,gaussadded20/en/audio13376.wav,gaussadded20_en_13376,real,gaussadded20,1,-1,1,-1,
+en,True,expfade30/en/audio2923.wav,expfade30_en_2923,voicemaker,expfade30,0,3,1,1,语句太短了不好判断
+en,False,logfade10/en/audio6063.wav,logfade10_en_6063,real,logfade10,0,-1,1,-1,
+en,True,logfade20/en/audio1361.wav,logfade20_en_1361,vallex,logfade20,1,1,1,1,"Voice volume,Speech rate"
+en,True,TimeScaling95/en/audio5312.wav,TimeScaling95_en_5312,OpenVoice,TimeScaling95,0,3,1,1,"Background noise,Voice volume,Speech rate"
+en,True,NoiseAdded-animal15/en/audio5139.wav,NoiseAdded-animal15_en_5139,QuickVC,NoiseAdded-animal15,1,1,1,1,"Voice volume,Speech rate"
+en,False,NoiseAdded-animal25/en/audio6178.wav,NoiseAdded-animal25_en_6178,real,NoiseAdded-animal25,0,-1,1,-1,
+en,True,logfade10/en/audio3839.wav,logfade10_en_3839,GPT_SoVITS,logfade10,0,3,1,1,"Voice volume,Speech rate,Pauses or breathing sounds"
+en,False,Re-Alldataset/en/audio2169.wav,Re-Alldataset_en_2169,real,Re-Alldataset,0,-1,1,-1,
+en,False,linefade30/en/audio5594.wav,linefade30_en_5594,real,linefade30,1,-1,1,-1,
+en,True,NoiseAdded-animal20/en/audio4705.wav,NoiseAdded-animal20_en_4705,anytospeech,NoiseAdded-animal20,1,3,1,1,"Voice volume,Speech rate"
+en,True,Alldataset44k/en/audio69.wav,Alldataset44k_en_69,StarGan,Alldataset44k,0,3,1,1,"Voice volume,Speech rate"
+en,False,NoiseAdded-natural15/en/audio2145.wav,NoiseAdded-natural15_en_2145,real,NoiseAdded-natural15,1,-1,1,-1,
+en,True,gaussadded15/en/audio426.wav,gaussadded15_en_426,aivoov,gaussadded15,1,3,1,1,"Background noise,Voice volume,Speech rate"
+en,True,NoiseAdded-interior20/en/audio2700.wav,NoiseAdded-interior20_en_2700,voiser,NoiseAdded-interior20,0,2,1,1,"Background noise,Speech rate"
+en,True,NoiseAdded-human25/en/audio1099.wav,NoiseAdded-human25_en_1099,vitstts,NoiseAdded-human25,0,3,1,1,"Voice volume,Speech rate"
+en,False,NoiseAdded-human15/en/audio3251.wav,NoiseAdded-human15_en_3251,real,NoiseAdded-human15,0,-1,1,-1,
+en,True,TimeScaling105/en/audio2374.wav,TimeScaling105_en_2374,texttovoice,TimeScaling105,1,1,1,1,带电音，英语AI是不是也有这么一项功能
+en,True,expfade20/en/audio4467.wav,expfade20_en_4467,resemble-AI,expfade20,1,2,1,1,"Voice volume,Speech rate,Emotion"
+en,False,NoiseAdded-interior20/en/audio5640.wav,NoiseAdded-interior20_en_5640,real,NoiseAdded-interior20,0,-1,1,-1,
+en,False,expfade30/en/audio6.wav,expfade30_en_6,real,expfade30,1,-1,1,-1,
+en,False,NoiseAdded-exterior15/en/audio2260.wav,NoiseAdded-exterior15_en_2260,real,NoiseAdded-exterior15,0,-1,1,-1,
+en,False,TimeScaling105/en/audio1885.wav,TimeScaling105_en_1885,real,TimeScaling105,1,-1,1,-1,
+en,True,volume50/en/audio4356.wav,volume50_en_4356,DDM-vc,volume50,1,1,1,1,口齿不怎么清晰的样子，更符合日常交流的状态
+en,True,NoiseAdded-human15/en/audio4331.wav,NoiseAdded-human15_en_4331,resemble-AI,NoiseAdded-human15,1,3,1,1,"Background noise,Speech rate"
+en,True,Alldataset32K/en/audio1546.wav,Alldataset32K_en_1546,elevenlabs,Alldataset32K,0,3,1,1,"Voice volume,Speech rate"
+en,False,TimeScaling110/en/audio5608.wav,TimeScaling110_en_5608,real,TimeScaling110,1,-1,1,-1,
+en,False,NoiseAdded-exterior25/en/audio2514.wav,NoiseAdded-exterior25_en_2514,real,NoiseAdded-exterior25,1,-1,1,-1,
+en,True,linefade30/en/audio5427.wav,linefade30_en_5427,speakperfect,linefade30,0,3,1,1,"Voice volume,Speech rate,Pauses or breathing sounds"
+en,True,linefade20/en/audio6007.wav,linefade20_en_6007,naturalreader,linefade20,1,3,1,1,中国的听力录音带和AI很接近，这种很规矩的发音顿挫比较难分辨
+en,False,logfade30/en/audio13266.wav,logfade30_en_13266,real,logfade30,0,-1,1,-1,
+en,False,Alldataset32K/en/audio2149.wav,Alldataset32K_en_2149,real,Alldataset32K,0,-1,1,-1,
+en,True,gaussadded25/en/audio2060.wav,gaussadded25_en_2060,StarGan,gaussadded25,0,3,1,1,"Voice volume,Speech rate,似乎是仿了纪录片里的男声，太像了"
+en,True,volume75/en/audio1746.wav,volume75_en_1746,voxify,volume75,0,2,1,1,"Voice volume,Speech rate"
+en,False,TimeScaling95/en/audio2584.wav,TimeScaling95_en_2584,real,TimeScaling95,0,-1,1,-1,
+en,True,volume150/en/audio1529.wav,volume150_en_1529,voicemaker,volume150,1,1,1,1,音调过于高昂，不合常规应该是AI刻意为之
+en,False,NoiseAdded-human20/en/audio5780.wav,NoiseAdded-human20_en_5780,real,NoiseAdded-human20,0,-1,1,-1,
+en,True,Alldataset/en/audio3098.wav,Alldataset_en_3098,freetts,Alldataset,0,2,1,1,"Voice volume,Speech rate"
+en,False,linefade10/en/audio1554.wav,linefade10_en_1554,real,linefade10,1,-1,1,-1,
+en,True,NoiseAdded-natural25/en/audio5490.wav,NoiseAdded-natural25_en_5490,DiffHiervc,NoiseAdded-natural25,0,3,1,1,"Pauses or breathing sounds,喘息的声音，跟真人很像"
+en,True,logfade30/en/audio3277.wav,logfade30_en_3277,freetts,logfade30,1,1,1,1,Speech rate
+en,True,NoiseAdded-exterior25/en/audio3107.wav,NoiseAdded-exterior25_en_3107,QuickVC,NoiseAdded-exterior25,0,1,1,1,change语调拐的太花哨
+en,False,NoiseAdded-animal15/en/audio2822.wav,NoiseAdded-animal15_en_2822,real,NoiseAdded-animal15,1,-1,1,-1,
+en,False,gaussadded25/en/audio1360.wav,gaussadded25_en_1360,real,gaussadded25,1,-1,1,-1,
+en,True,expfade10/en/audio2937.wav,expfade10_en_2937,vallex,expfade10,0,2,1,1,"Voice volume,Speech rate"
+en,True,Re-Alldataset/en/audio1794.wav,Re-Alldataset_en_1794,freetts,Re-Alldataset,0,2,1,1,"Background noise,Voice volume"
+en,False,NoiseAdded-animal20/en/audio1930.wav,NoiseAdded-animal20_en_1930,real,NoiseAdded-animal20,0,-1,1,-1,
+en,False,Alldataset/en/audio5193.wav,Alldataset_en_5193,real,Alldataset,0,-1,1,-1,
+en,True,NoiseAdded-interior15/en/audio964.wav,NoiseAdded-interior15_en_964,googleapi,NoiseAdded-interior15,1,1,1,1,Speech rate
+en,False,NoiseAdded-natural20/en/audio4834.wav,NoiseAdded-natural20_en_4834,real,NoiseAdded-natural20,0,-1,1,-1,
+en,False,volume125/en/audio1056.wav,volume125_en_1056,real,volume125,0,-1,1,-1,
+en,True,NoiseAdded-natural20/en/audio1814.wav,NoiseAdded-natural20_en_1814,audyo,NoiseAdded-natural20,0,3,1,1,
+en,False,linefade20/en/audio6423.wav,linefade20_en_6423,real,linefade20,1,-1,1,-1,
+en,True,TimeScaling90/en/audio13458.wav,TimeScaling90_en_13458,ChatTTS,TimeScaling90,0,3,1,1,"Emotion,略带沙哑的声音像真人"
+en,False,expfade20/en/audio744.wav,expfade20_en_744,real,expfade20,0,-1,1,-1,
+en,True,NoiseAdded-exterior20/en/audio4355.wav,NoiseAdded-exterior20_en_4355,fakeyou,NoiseAdded-exterior20,0,1,1,1,Speech rate
+en,True,NoiseAdded-human20/en/audio4213.wav,NoiseAdded-human20_en_4213,vallex,NoiseAdded-human20,0,2,1,1,Speech rate
+en,False,Alldataset44k/en/audio1404.wav,Alldataset44k_en_1404,real,Alldataset44k,1,-1,1,-1,
+en,False,TimeScaling90/en/audio4640.wav,TimeScaling90_en_4640,real,TimeScaling90,0,-1,1,-1,
+en,False,volume50/en/audio2880.wav,volume50_en_2880,real,volume50,0,-1,1,-1,
+en,False,volume75/en/audio6159.wav,volume75_en_6159,real,volume75,1,-1,1,-1,
+en,True,NoiseAdded-interior25/en/audio4809.wav,NoiseAdded-interior25_en_4809,speakperfect,NoiseAdded-interior25,1,2,1,1,"Background noise,Speech rate"
+en,True,NoiseAdded-natural15/en/audio5135.wav,NoiseAdded-natural15_en_5135,voicemaker,NoiseAdded-natural15,1,2,1,1,"Speech rate,Emotion,不带浓重的感情色彩很难分辨出来，尤其是对女性"

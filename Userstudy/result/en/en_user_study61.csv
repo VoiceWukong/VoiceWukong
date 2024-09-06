@@ -1,0 +1,79 @@
+language,fake_or_real,path,id,source,variant,user_choice,user_score,have_answered,have_scored,cause
+en,True,gaussadded25/en/audio1541.wav,gaussadded25_en_1541,unmixr,gaussadded25,1,2,1,1,Emotion
+en,False,NoiseAdded-exterior15/en/audio2130.wav,NoiseAdded-exterior15_en_2130,real,NoiseAdded-exterior15,1,-1,1,-1,
+en,False,NoiseAdded-human15/en/audio1081.wav,NoiseAdded-human15_en_1081,real,NoiseAdded-human15,1,-1,1,-1,
+en,True,expfade30/en/audio1180.wav,expfade30_en_1180,StarGan,expfade30,1,2,1,1,Pauses or breathing sounds
+en,True,expfade20/en/audio1103.wav,expfade20_en_1103,texttovoice,expfade20,1,1,1,1,"Laughter or other interjections,Speech rate"
+en,True,NoiseAdded-animal15/en/audio821.wav,NoiseAdded-animal15_en_821,RBVC,NoiseAdded-animal15,0,2,1,1,Voice volume
+en,True,linefade20/en/audio3521.wav,linefade20_en_3521,tortoise-tts,linefade20,1,1,1,1,Pauses or breathing sounds
+en,True,NoiseAdded-animal20/en/audio5146.wav,NoiseAdded-animal20_en_5146,diffganTTS,NoiseAdded-animal20,1,2,1,1,Emotion
+en,False,logfade20/en/audio13537.wav,logfade20_en_13537,real,logfade20,1,-1,1,-1,
+en,False,NoiseAdded-exterior20/en/audio5976.wav,NoiseAdded-exterior20_en_5976,real,NoiseAdded-exterior20,0,-1,1,-1,
+en,False,linefade30/en/audio341.wav,linefade30_en_341,real,linefade30,1,-1,1,-1,
+en,True,NoiseAdded-human15/en/audio13219.wav,NoiseAdded-human15_en_13219,ChatTTS,NoiseAdded-human15,0,3,1,1,Background noise
+en,False,linefade20/en/audio2030.wav,linefade20_en_2030,real,linefade20,1,-1,1,-1,
+en,False,Re-Alldataset/en/audio6223.wav,Re-Alldataset_en_6223,real,Re-Alldataset,1,-1,1,-1,
+en,False,NoiseAdded-natural20/en/audio5700.wav,NoiseAdded-natural20_en_5700,real,NoiseAdded-natural20,0,-1,1,-1,
+en,True,NoiseAdded-exterior20/en/audio5069.wav,NoiseAdded-exterior20_en_5069,diffganTTS,NoiseAdded-exterior20,0,3,1,1,Laughter or other interjections
+en,False,TimeScaling105/en/audio1459.wav,TimeScaling105_en_1459,real,TimeScaling105,1,-1,1,-1,
+en,False,NoiseAdded-human25/en/audio4936.wav,NoiseAdded-human25_en_4936,real,NoiseAdded-human25,0,-1,1,-1,
+en,True,NoiseAdded-human20/en/audio1005.wav,NoiseAdded-human20_en_1005,aivoov,NoiseAdded-human20,0,3,1,1,Pauses or breathing sounds
+en,False,NoiseAdded-exterior25/en/audio4392.wav,NoiseAdded-exterior25_en_4392,real,NoiseAdded-exterior25,1,-1,1,-1,
+en,False,gaussadded25/en/audio3180.wav,gaussadded25_en_3180,real,gaussadded25,1,-1,1,-1,
+en,False,NoiseAdded-natural15/en/audio4007.wav,NoiseAdded-natural15_en_4007,real,NoiseAdded-natural15,1,-1,1,-1,
+en,True,NoiseAdded-animal25/en/audio4773.wav,NoiseAdded-animal25_en_4773,styletts,NoiseAdded-animal25,1,2,1,1,Background noise
+en,False,Alldataset/en/audio1177.wav,Alldataset_en_1177,real,Alldataset,0,-1,1,-1,
+en,True,logfade20/en/audio5363.wav,logfade20_en_5363,QuickVC,logfade20,0,3,1,1,Speech rate
+en,True,Alldataset/en/audio4632.wav,Alldataset_en_4632,vitstts,Alldataset,1,1,1,1,Pauses or breathing sounds
+en,True,volume125/en/audio1269.wav,volume125_en_1269,fakeyou,volume125,0,1,1,1,Emotion
+en,False,gaussadded15/en/audio2249.wav,gaussadded15_en_2249,real,gaussadded15,0,-1,1,-1,
+en,False,TimeScaling95/en/audio2584.wav,TimeScaling95_en_2584,real,TimeScaling95,0,-1,1,-1,
+en,False,NoiseAdded-human20/en/audio2777.wav,NoiseAdded-human20_en_2777,real,NoiseAdded-human20,0,-1,1,-1,
+en,False,volume50/en/audio4977.wav,volume50_en_4977,real,volume50,1,-1,1,-1,
+en,True,NoiseAdded-interior25/en/audio4809.wav,NoiseAdded-interior25_en_4809,speakperfect,NoiseAdded-interior25,0,1,1,1,Speech rate
+en,False,NoiseAdded-animal20/en/audio2156.wav,NoiseAdded-animal20_en_2156,real,NoiseAdded-animal20,0,-1,1,-1,
+en,False,TimeScaling110/en/audio4116.wav,TimeScaling110_en_4116,real,TimeScaling110,1,-1,1,-1,
+en,True,linefade30/en/audio1402.wav,linefade30_en_1402,styletts,linefade30,0,3,1,1,Pauses or breathing sounds
+en,True,NoiseAdded-exterior25/en/audio648.wav,NoiseAdded-exterior25_en_648,textmagic,NoiseAdded-exterior25,1,2,1,1,Background noise
+en,True,volume50/en/audio516.wav,volume50_en_516,DDM-vc,volume50,0,2,1,1,Pauses or breathing sounds
+en,True,Re-Alldataset/en/audio6163.wav,Re-Alldataset_en_6163,naturalreader,Re-Alldataset,1,1,1,1,Pauses or breathing sounds
+en,True,TimeScaling105/en/audio4190.wav,TimeScaling105_en_4190,googleapi,TimeScaling105,1,2,1,1,Pauses or breathing sounds
+en,False,NoiseAdded-interior25/en/audio1651.wav,NoiseAdded-interior25_en_1651,real,NoiseAdded-interior25,0,-1,1,-1,
+en,True,logfade10/en/audio1776.wav,logfade10_en_1776,texttovoice,logfade10,1,1,1,1,Emotion
+en,False,volume125/en/audio3639.wav,volume125_en_3639,real,volume125,1,-1,1,-1,
+en,False,expfade30/en/audio5126.wav,expfade30_en_5126,real,expfade30,1,-1,1,-1,
+en,True,TimeScaling110/en/audio3910.wav,TimeScaling110_en_3910,unmixr,TimeScaling110,0,1,1,1,Emotion
+en,False,NoiseAdded-interior20/en/audio6597.wav,NoiseAdded-interior20_en_6597,real,NoiseAdded-interior20,0,-1,1,-1,
+en,False,expfade20/en/audio1912.wav,expfade20_en_1912,real,expfade20,1,-1,1,-1,
+en,True,TimeScaling95/en/audio310.wav,TimeScaling95_en_310,voicemaker,TimeScaling95,0,2,1,1,Laughter or other interjections
+en,True,gaussadded20/en/audio6189.wav,gaussadded20_en_6189,xtts_v2,gaussadded20,0,2,1,1,Emotion
+en,False,Alldataset44k/en/audio3594.wav,Alldataset44k_en_3594,real,Alldataset44k,0,-1,1,-1,
+en,True,NoiseAdded-exterior15/en/audio4577.wav,NoiseAdded-exterior15_en_4577,GPT_SoVITS,NoiseAdded-exterior15,1,1,1,1,Voice volume
+en,True,volume75/en/audio1357.wav,volume75_en_1357,OpenVoice,volume75,0,3,1,1,Pauses or breathing sounds
+en,True,gaussadded15/en/audio402.wav,gaussadded15_en_402,fakeyou,gaussadded15,0,2,1,1,Speech rate
+en,True,volume150/en/audio2471.wav,volume150_en_2471,speakperfect,volume150,1,2,1,1,"Emotion,rate"
+en,False,volume75/en/audio2317.wav,volume75_en_2317,real,volume75,1,-1,1,-1,
+en,True,NoiseAdded-natural20/en/audio5573.wav,NoiseAdded-natural20_en_5573,styletts,NoiseAdded-natural20,0,2,1,1,Background noise
+en,False,NoiseAdded-natural25/en/audio5425.wav,NoiseAdded-natural25_en_5425,real,NoiseAdded-natural25,1,-1,1,-1,
+en,True,NoiseAdded-natural15/en/audio3685.wav,NoiseAdded-natural15_en_3685,freetts,NoiseAdded-natural15,0,2,1,1,Background noise
+en,True,NoiseAdded-human25/en/audio2422.wav,NoiseAdded-human25_en_2422,aivoov,NoiseAdded-human25,1,1,1,1,Speech rate
+en,False,logfade30/en/audio598.wav,logfade30_en_598,real,logfade30,0,-1,1,-1,
+en,False,linefade10/en/audio4540.wav,linefade10_en_4540,real,linefade10,0,-1,1,-1,
+en,True,Alldataset32K/en/audio4319.wav,Alldataset32K_en_4319,DiffHiervc,Alldataset32K,0,2,1,1,Speech rate
+en,True,Alldataset44k/en/audio1176.wav,Alldataset44k_en_1176,texttovoice,Alldataset44k,1,3,1,1,Pauses or breathing sounds
+en,True,expfade10/en/audio1305.wav,expfade10_en_1305,GPT_SoVITS,expfade10,0,3,1,1,Emotion
+en,True,NoiseAdded-interior20/en/audio1219.wav,NoiseAdded-interior20_en_1219,anytospeech,NoiseAdded-interior20,1,2,1,1,Speech rate
+en,False,TimeScaling90/en/audio840.wav,TimeScaling90_en_840,real,TimeScaling90,0,-1,1,-1,
+en,True,NoiseAdded-interior15/en/audio258.wav,NoiseAdded-interior15_en_258,styletts,NoiseAdded-interior15,0,3,1,1,Background noise
+en,False,expfade10/en/audio3203.wav,expfade10_en_3203,real,expfade10,0,-1,1,-1,
+en,True,TimeScaling90/en/audio6328.wav,TimeScaling90_en_6328,playht,TimeScaling90,0,2,1,1,"Laughter or other interjections,Speech rate"
+en,False,logfade10/en/audio2196.wav,logfade10_en_2196,real,logfade10,0,-1,1,-1,
+en,True,logfade30/en/audio6505.wav,logfade30_en_6505,vitstts,logfade30,1,3,1,1,"Speech rate,Emotion"
+en,True,linefade10/en/audio3220.wav,linefade10_en_3220,openai,linefade10,0,3,1,1,Pauses or breathing sounds
+en,False,NoiseAdded-interior15/en/audio5230.wav,NoiseAdded-interior15_en_5230,real,NoiseAdded-interior15,0,-1,1,-1,
+en,False,gaussadded20/en/audio3885.wav,gaussadded20_en_3885,real,gaussadded20,1,-1,1,-1,
+en,False,NoiseAdded-animal25/en/audio5553.wav,NoiseAdded-animal25_en_5553,real,NoiseAdded-animal25,0,-1,1,-1,
+en,False,Alldataset32K/en/audio4902.wav,Alldataset32K_en_4902,real,Alldataset32K,0,-1,1,-1,
+en,False,NoiseAdded-animal15/en/audio3536.wav,NoiseAdded-animal15_en_3536,real,NoiseAdded-animal15,1,-1,1,-1,
+en,True,NoiseAdded-natural25/en/audio1365.wav,NoiseAdded-natural25_en_1365,QuickVC,NoiseAdded-natural25,0,2,1,1,"Speech rate,Emotion,Pauses or breathing sounds"
+en,False,volume150/en/audio1912.wav,volume150_en_1912,real,volume150,0,-1,1,-1,

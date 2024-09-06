@@ -1,0 +1,79 @@
+language,fake_or_real,path,id,source,variant,user_choice,user_score,have_answered,have_scored,cause
+en,True,NoiseAdded-human15/en/audio5117.wav,NoiseAdded-human15_en_5117,voxify,NoiseAdded-human15,0,3,1,1,"Background noise,Speech rate,Emotion,Pauses or breathing sounds,however后面停顿了，和真实说话一样。情感也比较到位"
+en,False,TimeScaling95/en/audio3667.wav,TimeScaling95_en_3667,real,TimeScaling95,0,-1,1,-1,
+en,True,TimeScaling95/en/audio5970.wav,TimeScaling95_en_5970,speakperfect,TimeScaling95,0,3,1,1,"Speech rate,Emotion,Pauses or breathing sounds"
+en,True,NoiseAdded-natural15/en/audio2668.wav,NoiseAdded-natural15_en_2668,voxify,NoiseAdded-natural15,1,2,1,1,"Background noise,结尾处我好像听到了一些电流音，有可能是合成语音"
+en,False,NoiseAdded-animal20/en/audio1661.wav,NoiseAdded-animal20_en_1661,real,NoiseAdded-animal20,1,-1,1,-1,
+en,False,gaussadded25/en/audio3476.wav,gaussadded25_en_3476,real,gaussadded25,1,-1,1,-1,
+en,False,volume150/en/audio1584.wav,volume150_en_1584,real,volume150,0,-1,1,-1,
+en,True,gaussadded20/en/audio1150.wav,gaussadded20_en_1150,diffganTTS,gaussadded20,1,3,1,1,"Background noise,Speech rate,Emotion"
+en,True,expfade30/en/audio4464.wav,expfade30_en_4464,fakeyou,expfade30,1,1,1,1,这个太假了，机器声音过于明显
+en,False,NoiseAdded-exterior20/en/audio5540.wav,NoiseAdded-exterior20_en_5540,real,NoiseAdded-exterior20,0,-1,1,-1,
+en,False,NoiseAdded-natural20/en/audio4682.wav,NoiseAdded-natural20_en_4682,real,NoiseAdded-natural20,0,-1,1,-1,
+en,True,NoiseAdded-natural20/en/audio5119.wav,NoiseAdded-natural20_en_5119,voxify,NoiseAdded-natural20,0,3,1,1,"Voice volume,Speech rate,Emotion"
+en,False,NoiseAdded-animal25/en/audio1719.wav,NoiseAdded-animal25_en_1719,real,NoiseAdded-animal25,0,-1,1,-1,
+en,False,expfade20/en/audio3511.wav,expfade20_en_3511,real,expfade20,0,-1,1,-1,
+en,False,NoiseAdded-natural15/en/audio5647.wav,NoiseAdded-natural15_en_5647,real,NoiseAdded-natural15,0,-1,1,-1,
+en,False,NoiseAdded-exterior15/en/audio532.wav,NoiseAdded-exterior15_en_532,real,NoiseAdded-exterior15,0,-1,1,-1,
+en,True,Alldataset44k/en/audio69.wav,Alldataset44k_en_69,StarGan,Alldataset44k,1,1,1,1,"Background noise,感觉是有一些电流音存在的。如果是重放语音我觉得可能是真的，但是合成语音的话一定是假的"
+en,False,NoiseAdded-interior20/en/audio5700.wav,NoiseAdded-interior20_en_5700,real,NoiseAdded-interior20,0,-1,1,-1,
+en,False,Alldataset44k/en/audio6574.wav,Alldataset44k_en_6574,real,Alldataset44k,1,-1,1,-1,
+en,True,linefade20/en/audio5584.wav,linefade20_en_5584,anytospeech,linefade20,0,3,1,1,"Voice volume,Speech rate,Emotion"
+en,True,volume150/en/audio284.wav,volume150_en_284,StarGan,volume150,1,1,1,1,"Background noise,结尾处存在电流"
+en,False,expfade10/en/audio2350.wav,expfade10_en_2350,real,expfade10,0,-1,1,-1,
+en,True,TimeScaling105/en/audio365.wav,TimeScaling105_en_365,unmixr,TimeScaling105,0,3,1,1,"Voice volume,Speech rate,Emotion,声带的震动都听的很清楚，应该是真的"
+en,True,NoiseAdded-exterior15/en/audio4569.wav,NoiseAdded-exterior15_en_4569,QuickVC,NoiseAdded-exterior15,1,2,1,1,"Background noise,感觉这个背景噪音很奇怪，有点想隐藏的意思"
+en,False,volume125/en/audio2101.wav,volume125_en_2101,real,volume125,0,-1,1,-1,
+en,False,Re-Alldataset/en/audio3258.wav,Re-Alldataset_en_3258,real,Re-Alldataset,1,-1,1,-1,
+en,True,gaussadded15/en/audio2619.wav,gaussadded15_en_2619,speakperfect,gaussadded15,0,3,1,1,"Background noise,Speech rate"
+en,True,volume75/en/audio201.wav,volume75_en_201,voicemaker,volume75,0,3,1,1,"Emotion,Pauses or breathing sounds"
+en,True,NoiseAdded-human20/en/audio13477.wav,NoiseAdded-human20_en_13477,ChatTTS,NoiseAdded-human20,1,1,1,1,"Speech rate,语速太奇怪了，先慢后快"
+en,False,NoiseAdded-animal15/en/audio3321.wav,NoiseAdded-animal15_en_3321,real,NoiseAdded-animal15,0,-1,1,-1,
+en,True,NoiseAdded-animal20/en/audio4705.wav,NoiseAdded-animal20_en_4705,anytospeech,NoiseAdded-animal20,0,3,1,1,"Speech rate,Emotion"
+en,False,NoiseAdded-human20/en/audio1023.wav,NoiseAdded-human20_en_1023,real,NoiseAdded-human20,0,-1,1,-1,
+en,True,expfade20/en/audio617.wav,expfade20_en_617,diffganTTS,expfade20,1,1,1,1,这个电流声太大了
+en,True,volume125/en/audio5409.wav,volume125_en_5409,naturalreader,volume125,0,3,1,1,"Background noise,Speech rate,Emotion"
+en,True,TimeScaling110/en/audio4896.wav,TimeScaling110_en_4896,speakperfect,TimeScaling110,1,2,1,1,"Speech rate,Emotion,好像有一点电流吗，但是语速和情感比较像真人的"
+en,False,volume75/en/audio5548.wav,volume75_en_5548,real,volume75,0,-1,1,-1,
+en,True,Alldataset32K/en/audio277.wav,Alldataset32K_en_277,DiffHiervc,Alldataset32K,0,2,1,1,Emotion
+en,True,linefade30/en/audio5380.wav,linefade30_en_5380,textmagic,linefade30,0,3,1,1,"Speech rate,Emotion,Pauses or breathing sounds"
+en,True,Alldataset/en/audio190.wav,Alldataset_en_190,DDM-vc,Alldataset,1,1,1,1,"Background noise,结尾电流声很大，前面还好"
+en,False,NoiseAdded-natural25/en/audio4650.wav,NoiseAdded-natural25_en_4650,real,NoiseAdded-natural25,0,-1,1,-1,
+en,True,NoiseAdded-interior20/en/audio4975.wav,NoiseAdded-interior20_en_4975,xtts_v2,NoiseAdded-interior20,0,3,1,1,"Background noise,Speech rate"
+en,True,logfade20/en/audio4692.wav,logfade20_en_4692,QuickVC,logfade20,1,1,1,1,"Background noise,这个我可以听出很明显的电流声"
+en,False,gaussadded20/en/audio2119.wav,gaussadded20_en_2119,real,gaussadded20,0,-1,1,-1,
+en,False,NoiseAdded-interior25/en/audio1839.wav,NoiseAdded-interior25_en_1839,real,NoiseAdded-interior25,1,-1,1,-1,
+en,True,NoiseAdded-animal15/en/audio3301.wav,NoiseAdded-animal15_en_3301,resemble-AI,NoiseAdded-animal15,1,3,1,1,"Speech rate,Emotion,Pauses or breathing sounds"
+en,False,Alldataset32K/en/audio6545.wav,Alldataset32K_en_6545,real,Alldataset32K,0,-1,1,-1,
+en,True,NoiseAdded-exterior25/en/audio1549.wav,NoiseAdded-exterior25_en_1549,styletts,NoiseAdded-exterior25,0,3,1,1,"Background noise,Emotion"
+en,True,expfade10/en/audio400.wav,expfade10_en_400,DiffHiervc,expfade10,1,1,1,1,"Background noise,还是电流声很大"
+en,False,TimeScaling90/en/audio3093.wav,TimeScaling90_en_3093,real,TimeScaling90,0,-1,1,-1,
+en,False,linefade30/en/audio3637.wav,linefade30_en_3637,real,linefade30,0,-1,1,-1,
+en,True,gaussadded25/en/audio5210.wav,gaussadded25_en_5210,vitstts,gaussadded25,0,3,1,1,"Speech rate,Emotion,Pauses or breathing sounds,这个an actor还连读，我觉得是真的"
+en,True,TimeScaling90/en/audio5923.wav,TimeScaling90_en_5923,Bark,TimeScaling90,1,1,1,1,"Voice volume,Speech rate,Emotion,语调不对，速度也不对，一听就是机器人"
+en,False,TimeScaling105/en/audio2205.wav,TimeScaling105_en_2205,real,TimeScaling105,0,-1,1,-1,
+en,False,linefade10/en/audio752.wav,linefade10_en_752,real,linefade10,0,-1,1,-1,
+en,True,NoiseAdded-interior15/en/audio2629.wav,NoiseAdded-interior15_en_2629,playht,NoiseAdded-interior15,0,3,1,1,"Speech rate,Emotion"
+en,True,Re-Alldataset/en/audio2739.wav,Re-Alldataset_en_2739,DiffHiervc,Re-Alldataset,1,1,1,1,"Background noise,很空灵的感觉，不像是human voice"
+en,True,volume50/en/audio4109.wav,volume50_en_4109,fakeyou,volume50,0,3,1,1,"Voice volume,Speech rate,Emotion"
+en,False,expfade30/en/audio1947.wav,expfade30_en_1947,real,expfade30,0,-1,1,-1,
+en,True,NoiseAdded-exterior20/en/audio253.wav,NoiseAdded-exterior20_en_253,anytospeech,NoiseAdded-exterior20,0,3,1,1,"Background noise,Speech rate,Emotion"
+en,False,volume50/en/audio5141.wav,volume50_en_5141,real,volume50,0,-1,1,-1,
+en,True,NoiseAdded-natural25/en/audio40.wav,NoiseAdded-natural25_en_40,voicemaker,NoiseAdded-natural25,0,3,1,1,"Background noise,Voice volume,Laughter or other interjections,Speech rate,Emotion,Pauses or breathing sounds,很像新闻报道，很真实"
+en,True,linefade10/en/audio2989.wav,linefade10_en_2989,textmagic,linefade10,0,3,1,1,"Speech rate,Emotion"
+en,False,NoiseAdded-exterior25/en/audio2171.wav,NoiseAdded-exterior25_en_2171,real,NoiseAdded-exterior25,0,-1,1,-1,
+en,False,logfade30/en/audio4107.wav,logfade30_en_4107,real,logfade30,1,-1,1,-1,
+en,False,gaussadded15/en/audio5259.wav,gaussadded15_en_5259,real,gaussadded15,0,-1,1,-1,
+en,True,NoiseAdded-human25/en/audio5905.wav,NoiseAdded-human25_en_5905,tortoise-tts,NoiseAdded-human25,0,3,1,1,Background noise
+en,True,logfade30/en/audio520.wav,logfade30_en_520,aivoov,logfade30,0,2,1,1,结束时少了一点，让我比较怀疑
+en,False,NoiseAdded-human15/en/audio3938.wav,NoiseAdded-human15_en_3938,real,NoiseAdded-human15,0,-1,1,-1,
+en,True,logfade10/en/audio5918.wav,logfade10_en_5918,fakeyou,logfade10,1,1,1,1,"Background noise,比较强的电流音"
+en,True,NoiseAdded-interior25/en/audio5966.wav,NoiseAdded-interior25_en_5966,fakeyou,NoiseAdded-interior25,1,1,1,1,"Background noise,很强的电流音"
+en,False,Alldataset/en/audio545.wav,Alldataset_en_545,real,Alldataset,0,-1,1,-1,
+en,True,NoiseAdded-animal25/en/audio3368.wav,NoiseAdded-animal25_en_3368,DiffHiervc,NoiseAdded-animal25,1,1,1,1,"Background noise,背景噪音太多电流了，应该是合成的问题"
+en,False,linefade20/en/audio2066.wav,linefade20_en_2066,real,linefade20,0,-1,1,-1,
+en,False,logfade10/en/audio5455.wav,logfade10_en_5455,real,logfade10,0,-1,1,-1,
+en,False,NoiseAdded-human25/en/audio929.wav,NoiseAdded-human25_en_929,real,NoiseAdded-human25,0,-1,1,-1,
+en,False,TimeScaling110/en/audio13347.wav,TimeScaling110_en_13347,real,TimeScaling110,0,-1,1,-1,
+en,False,NoiseAdded-interior15/en/audio2495.wav,NoiseAdded-interior15_en_2495,real,NoiseAdded-interior15,0,-1,1,-1,
+en,False,logfade20/en/audio1539.wav,logfade20_en_1539,real,logfade20,0,-1,1,-1,

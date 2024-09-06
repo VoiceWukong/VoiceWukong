@@ -1,0 +1,79 @@
+language,fake_or_real,path,id,source,variant,user_choice,user_score,have_answered,have_scored,cause
+en,True,TimeScaling95/en/audio726.wav,TimeScaling95_en_726,voxify,TimeScaling95,1,1,1,1,Emotion
+en,False,NoiseAdded-natural15/en/audio5746.wav,NoiseAdded-natural15_en_5746,real,NoiseAdded-natural15,1,-1,1,-1,
+en,True,gaussadded25/en/audio4502.wav,gaussadded25_en_4502,StarGan,gaussadded25,1,2,1,1,"Background noise,Speech rate"
+en,True,linefade30/en/audio13598.wav,linefade30_en_13598,ChatTTS,linefade30,1,3,1,1,"Speech rate,Pauses or breathing sounds"
+en,False,expfade10/en/audio3971.wav,expfade10_en_3971,real,expfade10,0,-1,1,-1,
+en,False,volume50/en/audio693.wav,volume50_en_693,real,volume50,1,-1,1,-1,
+en,False,linefade10/en/audio2795.wav,linefade10_en_2795,real,linefade10,1,-1,1,-1,
+en,True,volume150/en/audio3962.wav,volume150_en_3962,Bark,volume150,1,2,1,1,"Voice volume,Emotion"
+en,False,gaussadded15/en/audio5686.wav,gaussadded15_en_5686,real,gaussadded15,0,-1,1,-1,
+en,False,logfade10/en/audio3590.wav,logfade10_en_3590,real,logfade10,1,-1,1,-1,
+en,False,NoiseAdded-exterior25/en/audio3358.wav,NoiseAdded-exterior25_en_3358,real,NoiseAdded-exterior25,1,-1,1,-1,
+en,True,volume50/en/audio5891.wav,volume50_en_5891,textmagic,volume50,1,1,1,1,Emotion
+en,False,gaussadded25/en/audio5242.wav,gaussadded25_en_5242,real,gaussadded25,1,-1,1,-1,
+en,True,NoiseAdded-natural25/en/audio6313.wav,NoiseAdded-natural25_en_6313,elevenlabs,NoiseAdded-natural25,0,3,1,1,"Speech rate,Emotion,这怎么是假的，感觉是中国小姐姐说的英语"
+en,False,expfade30/en/audio6559.wav,expfade30_en_6559,real,expfade30,0,-1,1,-1,
+en,True,TimeScaling90/en/audio5313.wav,TimeScaling90_en_5313,RBVC,TimeScaling90,0,1,1,1,"Speech rate,Emotion,Pauses or breathing sounds,一听就是电子音，跟英语听力一样"
+en,True,expfade20/en/audio3460.wav,expfade20_en_3460,elevenlabs,expfade20,0,1,1,1,"Speech rate,Emotion,Pauses or breathing sounds"
+en,True,NoiseAdded-exterior20/en/audio2859.wav,NoiseAdded-exterior20_en_2859,aivoov,NoiseAdded-exterior20,1,1,1,1,"Background noise,Emotion"
+en,False,NoiseAdded-interior20/en/audio6563.wav,NoiseAdded-interior20_en_6563,real,NoiseAdded-interior20,0,-1,1,-1,
+en,False,NoiseAdded-interior25/en/audio1826.wav,NoiseAdded-interior25_en_1826,real,NoiseAdded-interior25,0,-1,1,-1,
+en,False,NoiseAdded-animal25/en/audio3221.wav,NoiseAdded-animal25_en_3221,real,NoiseAdded-animal25,0,-1,1,-1,
+en,True,Alldataset/en/audio6042.wav,Alldataset_en_6042,freetts,Alldataset,1,2,1,1,Emotion
+en,True,NoiseAdded-interior15/en/audio449.wav,NoiseAdded-interior15_en_449,voxify,NoiseAdded-interior15,1,1,1,1,"Background noise,Emotion"
+en,False,Alldataset44k/en/audio4567.wav,Alldataset44k_en_4567,real,Alldataset44k,0,-1,1,-1,
+en,True,NoiseAdded-exterior15/en/audio1710.wav,NoiseAdded-exterior15_en_1710,resemble-AI,NoiseAdded-exterior15,1,3,1,1,听起来想电子音，但是又像故意配音的
+en,True,gaussadded20/en/audio6375.wav,gaussadded20_en_6375,elevenlabs,gaussadded20,1,1,1,1,"Background noise,Pauses or breathing sounds"
+en,True,logfade10/en/audio1182.wav,logfade10_en_1182,DDM-vc,logfade10,0,3,1,1,Emotion
+en,False,TimeScaling90/en/audio840.wav,TimeScaling90_en_840,real,TimeScaling90,0,-1,1,-1,
+en,False,NoiseAdded-exterior20/en/audio1273.wav,NoiseAdded-exterior20_en_1273,real,NoiseAdded-exterior20,0,-1,1,-1,
+en,True,linefade20/en/audio2854.wav,linefade20_en_2854,audyo,linefade20,1,1,1,1,Emotion
+en,False,Alldataset/en/audio2549.wav,Alldataset_en_2549,real,Alldataset,0,-1,1,-1,
+en,False,NoiseAdded-natural20/en/audio689.wav,NoiseAdded-natural20_en_689,real,NoiseAdded-natural20,0,-1,1,-1,
+en,False,logfade20/en/audio96.wav,logfade20_en_96,real,logfade20,0,-1,1,-1,
+en,True,logfade20/en/audio6301.wav,logfade20_en_6301,voiser,logfade20,1,1,1,1,"Voice volume,Speech rate"
+en,True,NoiseAdded-exterior25/en/audio3107.wav,NoiseAdded-exterior25_en_3107,QuickVC,NoiseAdded-exterior25,0,3,1,1,"Background noise,Emotion,Pauses or breathing sounds"
+en,True,NoiseAdded-animal15/en/audio5327.wav,NoiseAdded-animal15_en_5327,anytospeech,NoiseAdded-animal15,1,1,1,1,Emotion
+en,False,TimeScaling110/en/audio2893.wav,TimeScaling110_en_2893,real,TimeScaling110,0,-1,1,-1,
+en,False,volume150/en/audio5242.wav,volume150_en_5242,real,volume150,0,-1,1,-1,
+en,True,TimeScaling110/en/audio6086.wav,TimeScaling110_en_6086,aivoov,TimeScaling110,1,1,1,1,一听就是英语听力音
+en,True,NoiseAdded-human15/en/audio36.wav,NoiseAdded-human15_en_36,vitstts,NoiseAdded-human15,1,1,1,1,Speech rate
+en,True,NoiseAdded-animal25/en/audio1685.wav,NoiseAdded-animal25_en_1685,OpenVoice,NoiseAdded-animal25,0,2,1,1,"Laughter or other interjections,Emotion"
+en,False,NoiseAdded-natural25/en/audio2749.wav,NoiseAdded-natural25_en_2749,real,NoiseAdded-natural25,1,-1,1,-1,
+en,True,NoiseAdded-natural15/en/audio2974.wav,NoiseAdded-natural15_en_2974,elevenlabs,NoiseAdded-natural15,0,3,1,1,"Voice volume,Laughter or other interjections,Speech rate,Emotion"
+en,False,linefade20/en/audio3509.wav,linefade20_en_3509,real,linefade20,0,-1,1,-1,
+en,True,expfade30/en/audio4889.wav,expfade30_en_4889,Bark,expfade30,0,1,1,1,"Voice volume,Emotion"
+en,True,TimeScaling105/en/audio3169.wav,TimeScaling105_en_3169,styletts,TimeScaling105,1,1,1,1,Emotion
+en,False,Re-Alldataset/en/audio3070.wav,Re-Alldataset_en_3070,real,Re-Alldataset,1,-1,1,-1,
+en,False,volume75/en/audio4735.wav,volume75_en_4735,real,volume75,0,-1,1,-1,
+en,False,NoiseAdded-human15/en/audio1531.wav,NoiseAdded-human15_en_1531,real,NoiseAdded-human15,1,-1,1,-1,
+en,False,logfade30/en/audio5954.wav,logfade30_en_5954,real,logfade30,1,-1,1,-1,
+en,True,Alldataset32K/en/audio1546.wav,Alldataset32K_en_1546,elevenlabs,Alldataset32K,0,3,1,1,Speech rate
+en,True,NoiseAdded-human20/en/audio5920.wav,NoiseAdded-human20_en_5920,voicemaker,NoiseAdded-human20,1,1,1,1,"Background noise,Emotion"
+en,True,expfade10/en/audio4003.wav,expfade10_en_4003,GPT_SoVITS,expfade10,0,1,1,1,"Emotion,Pauses or breathing sounds"
+en,True,logfade30/en/audio5518.wav,logfade30_en_5518,resemble-AI,logfade30,1,1,1,1,"Voice volume,Emotion"
+en,True,NoiseAdded-interior25/en/audio2432.wav,NoiseAdded-interior25_en_2432,openai,NoiseAdded-interior25,1,2,1,1,Pauses or breathing sounds
+en,True,Re-Alldataset/en/audio2355.wav,Re-Alldataset_en_2355,unmixr,Re-Alldataset,1,1,1,1,"Voice volume,Laughter or other interjections,Emotion"
+en,True,NoiseAdded-human25/en/audio4396.wav,NoiseAdded-human25_en_4396,speakperfect,NoiseAdded-human25,0,1,1,1,Pauses or breathing sounds
+en,True,NoiseAdded-interior20/en/audio821.wav,NoiseAdded-interior20_en_821,RBVC,NoiseAdded-interior20,0,2,1,1,"Background noise,Emotion"
+en,True,gaussadded15/en/audio461.wav,gaussadded15_en_461,DiffHiervc,gaussadded15,1,1,1,1,Background noise
+en,False,NoiseAdded-exterior15/en/audio3508.wav,NoiseAdded-exterior15_en_3508,real,NoiseAdded-exterior15,0,-1,1,-1,
+en,True,volume125/en/audio3959.wav,volume125_en_3959,textmagic,volume125,1,1,1,1,Emotion
+en,False,NoiseAdded-animal15/en/audio3327.wav,NoiseAdded-animal15_en_3327,real,NoiseAdded-animal15,1,-1,1,-1,
+en,False,NoiseAdded-interior15/en/audio799.wav,NoiseAdded-interior15_en_799,real,NoiseAdded-interior15,1,-1,1,-1,
+en,False,gaussadded20/en/audio4744.wav,gaussadded20_en_4744,real,gaussadded20,1,-1,1,-1,
+en,False,TimeScaling105/en/audio1097.wav,TimeScaling105_en_1097,real,TimeScaling105,1,-1,1,-1,
+en,False,Alldataset32K/en/audio2948.wav,Alldataset32K_en_2948,real,Alldataset32K,1,-1,1,-1,
+en,True,NoiseAdded-natural20/en/audio2758.wav,NoiseAdded-natural20_en_2758,fakeyou,NoiseAdded-natural20,0,1,1,1,"Background noise,Speech rate"
+en,True,linefade10/en/audio2600.wav,linefade10_en_2600,diffganTTS,linefade10,1,1,1,1,Emotion
+en,True,NoiseAdded-animal20/en/audio4386.wav,NoiseAdded-animal20_en_4386,vallex,NoiseAdded-animal20,0,2,1,1,"Background noise,Laughter or other interjections"
+en,False,TimeScaling95/en/audio1615.wav,TimeScaling95_en_1615,real,TimeScaling95,1,-1,1,-1,
+en,True,Alldataset44k/en/audio1457.wav,Alldataset44k_en_1457,textmagic,Alldataset44k,1,3,1,1,"Speech rate,Emotion"
+en,False,linefade30/en/audio428.wav,linefade30_en_428,real,linefade30,1,-1,1,-1,
+en,False,expfade20/en/audio3377.wav,expfade20_en_3377,real,expfade20,1,-1,1,-1,
+en,False,NoiseAdded-human25/en/audio5074.wav,NoiseAdded-human25_en_5074,real,NoiseAdded-human25,1,-1,1,-1,
+en,True,volume75/en/audio3845.wav,volume75_en_3845,aivoov,volume75,1,1,1,1,"Emotion,这一听就是电脑合成音"
+en,False,volume125/en/audio1856.wav,volume125_en_1856,real,volume125,1,-1,1,-1,
+en,False,NoiseAdded-human20/en/audio306.wav,NoiseAdded-human20_en_306,real,NoiseAdded-human20,1,-1,1,-1,
+en,False,NoiseAdded-animal20/en/audio5906.wav,NoiseAdded-animal20_en_5906,real,NoiseAdded-animal20,0,-1,1,-1,

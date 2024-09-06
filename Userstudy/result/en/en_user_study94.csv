@@ -1,0 +1,79 @@
+language,fake_or_real,path,id,source,variant,user_choice,user_score,have_answered,have_scored,cause
+en,True,gaussadded15/en/audio5717.wav,gaussadded15_en_5717,Bark,gaussadded15,0,3,1,1,"Background noise,Speech rate"
+en,True,gaussadded25/en/audio13245.wav,gaussadded25_en_13245,ChatTTS,gaussadded25,0,3,1,1,"Speech rate,Emotion,语调上扬很自然"
+en,False,NoiseAdded-natural25/en/audio2144.wav,NoiseAdded-natural25_en_2144,real,NoiseAdded-natural25,0,-1,1,-1,
+en,False,NoiseAdded-natural20/en/audio4978.wav,NoiseAdded-natural20_en_4978,real,NoiseAdded-natural20,0,-1,1,-1,
+en,False,NoiseAdded-natural15/en/audio4644.wav,NoiseAdded-natural15_en_4644,real,NoiseAdded-natural15,0,-1,1,-1,
+en,False,Alldataset32K/en/audio5479.wav,Alldataset32K_en_5479,real,Alldataset32K,0,-1,1,-1,
+en,True,NoiseAdded-interior15/en/audio4355.wav,NoiseAdded-interior15_en_4355,fakeyou,NoiseAdded-interior15,0,2,1,1,"Background noise,Emotion"
+en,False,NoiseAdded-exterior25/en/audio3805.wav,NoiseAdded-exterior25_en_3805,real,NoiseAdded-exterior25,0,-1,1,-1,
+en,False,NoiseAdded-animal20/en/audio4075.wav,NoiseAdded-animal20_en_4075,real,NoiseAdded-animal20,0,-1,1,-1,
+en,True,expfade30/en/audio1762.wav,expfade30_en_1762,textmagic,expfade30,1,1,1,1,"Speech rate,语速太均匀"
+en,False,gaussadded25/en/audio5703.wav,gaussadded25_en_5703,real,gaussadded25,0,-1,1,-1,
+en,True,TimeScaling95/en/audio5580.wav,TimeScaling95_en_5580,fakeyou,TimeScaling95,0,3,1,1,"Speech rate,Emotion"
+en,False,NoiseAdded-exterior20/en/audio900.wav,NoiseAdded-exterior20_en_900,real,NoiseAdded-exterior20,0,-1,1,-1,
+en,False,NoiseAdded-human25/en/audio6480.wav,NoiseAdded-human25_en_6480,real,NoiseAdded-human25,0,-1,1,-1,
+en,False,TimeScaling90/en/audio3445.wav,TimeScaling90_en_3445,real,TimeScaling90,1,-1,1,-1,
+en,False,TimeScaling105/en/audio6161.wav,TimeScaling105_en_6161,real,TimeScaling105,0,-1,1,-1,
+en,False,linefade20/en/audio1576.wav,linefade20_en_1576,real,linefade20,0,-1,1,-1,
+en,True,logfade10/en/audio5898.wav,logfade10_en_5898,naturalreader,logfade10,1,3,1,1,"Emotion,语调的上和下很自然"
+en,False,expfade10/en/audio4829.wav,expfade10_en_4829,real,expfade10,0,-1,1,-1,
+en,False,linefade30/en/audio4387.wav,linefade30_en_4387,real,linefade30,0,-1,1,-1,
+en,True,TimeScaling105/en/audio4656.wav,TimeScaling105_en_4656,tortoise-tts,TimeScaling105,0,3,1,1,"Pauses or breathing sounds,单词结尾的气声很像嘴唇发出的声音"
+en,True,expfade10/en/audio3634.wav,expfade10_en_3634,styletts,expfade10,0,2,1,1,"Emotion,语调"
+en,True,NoiseAdded-exterior15/en/audio6422.wav,NoiseAdded-exterior15_en_6422,voxify,NoiseAdded-exterior15,0,3,1,1,"Background noise,Emotion"
+en,True,NoiseAdded-interior20/en/audio4356.wav,NoiseAdded-interior20_en_4356,DDM-vc,NoiseAdded-interior20,0,2,1,1,Background noise
+en,True,Alldataset32K/en/audio3034.wav,Alldataset32K_en_3034,voxify,Alldataset32K,0,1,1,1,Speech rate
+en,False,Alldataset/en/audio1244.wav,Alldataset_en_1244,real,Alldataset,0,-1,1,-1,
+en,True,NoiseAdded-human25/en/audio4649.wav,NoiseAdded-human25_en_4649,naturalreader,NoiseAdded-human25,0,3,1,1,"Background noise,Emotion"
+en,True,volume125/en/audio4301.wav,volume125_en_4301,voxify,volume125,0,3,1,1,"Speech rate,Emotion"
+en,False,volume125/en/audio5741.wav,volume125_en_5741,real,volume125,0,-1,1,-1,
+en,True,TimeScaling110/en/audio6042.wav,TimeScaling110_en_6042,freetts,TimeScaling110,1,3,1,1,"Emotion,语调"
+en,False,volume150/en/audio294.wav,volume150_en_294,real,volume150,1,-1,1,-1,
+en,True,Alldataset/en/audio426.wav,Alldataset_en_426,aivoov,Alldataset,1,1,1,1,Speech rate
+en,False,gaussadded15/en/audio6515.wav,gaussadded15_en_6515,real,gaussadded15,0,-1,1,-1,
+en,True,gaussadded20/en/audio4889.wav,gaussadded20_en_4889,Bark,gaussadded20,0,3,1,1,"Background noise,Speech rate,Pauses or breathing sounds"
+en,False,NoiseAdded-interior20/en/audio880.wav,NoiseAdded-interior20_en_880,real,NoiseAdded-interior20,1,-1,1,-1,
+en,False,gaussadded20/en/audio2002.wav,gaussadded20_en_2002,real,gaussadded20,0,-1,1,-1,
+en,True,volume75/en/audio983.wav,volume75_en_983,openai,volume75,0,3,1,1,"Voice volume,Speech rate,Emotion"
+en,True,NoiseAdded-animal20/en/audio4523.wav,NoiseAdded-animal20_en_4523,styletts,NoiseAdded-animal20,1,1,1,1,"Background noise,Emotion"
+en,True,NoiseAdded-interior25/en/audio4162.wav,NoiseAdded-interior25_en_4162,voxify,NoiseAdded-interior25,0,3,1,1,"Background noise,Speech rate,Emotion"
+en,True,NoiseAdded-human20/en/audio5211.wav,NoiseAdded-human20_en_5211,playht,NoiseAdded-human20,0,3,1,1,"Background noise,Emotion"
+en,False,NoiseAdded-animal15/en/audio1277.wav,NoiseAdded-animal15_en_1277,real,NoiseAdded-animal15,0,-1,1,-1,
+en,True,NoiseAdded-natural25/en/audio2394.wav,NoiseAdded-natural25_en_2394,speechgen,NoiseAdded-natural25,1,2,1,1,"Speech rate,Emotion"
+en,False,linefade10/en/audio605.wav,linefade10_en_605,real,linefade10,1,-1,1,-1,
+en,True,volume50/en/audio2813.wav,volume50_en_2813,elevenlabs,volume50,1,1,1,1,Speech rate
+en,True,Alldataset44k/en/audio3525.wav,Alldataset44k_en_3525,voxify,Alldataset44k,1,1,1,1,Speech rate
+en,False,logfade30/en/audio818.wav,logfade30_en_818,real,logfade30,1,-1,1,-1,
+en,True,logfade20/en/audio862.wav,logfade20_en_862,openai,logfade20,1,1,1,1,部分单词发音不清楚
+en,False,TimeScaling110/en/audio2352.wav,TimeScaling110_en_2352,real,TimeScaling110,0,-1,1,-1,
+en,True,NoiseAdded-animal25/en/audio304.wav,NoiseAdded-animal25_en_304,googleapi,NoiseAdded-animal25,0,2,1,1,"Background noise,Speech rate"
+en,False,NoiseAdded-exterior15/en/audio6255.wav,NoiseAdded-exterior15_en_6255,real,NoiseAdded-exterior15,0,-1,1,-1,
+en,True,NoiseAdded-exterior25/en/audio13426.wav,NoiseAdded-exterior25_en_13426,ChatTTS,NoiseAdded-exterior25,1,1,1,1,Background noise
+en,True,TimeScaling90/en/audio6067.wav,TimeScaling90_en_6067,xtts_v2,TimeScaling90,0,3,1,1,"Speech rate,Emotion"
+en,True,expfade20/en/audio6111.wav,expfade20_en_6111,DDM-vc,expfade20,0,2,1,1,单词结尾的气声很自然
+en,False,NoiseAdded-interior25/en/audio1713.wav,NoiseAdded-interior25_en_1713,real,NoiseAdded-interior25,0,-1,1,-1,
+en,True,linefade10/en/audio4971.wav,linefade10_en_4971,RBVC,linefade10,0,3,1,1,气声很自然
+en,False,TimeScaling95/en/audio2316.wav,TimeScaling95_en_2316,real,TimeScaling95,0,-1,1,-1,
+en,True,linefade30/en/audio2725.wav,linefade30_en_2725,freetts,linefade30,0,1,1,1,"Speech rate,Emotion"
+en,True,volume150/en/audio737.wav,volume150_en_737,DDM-vc,volume150,1,2,1,1,单词的连读
+en,True,NoiseAdded-natural20/en/audio3586.wav,NoiseAdded-natural20_en_3586,textmagic,NoiseAdded-natural20,1,2,1,1,"Background noise,单词的连读"
+en,False,NoiseAdded-human15/en/audio2288.wav,NoiseAdded-human15_en_2288,real,NoiseAdded-human15,0,-1,1,-1,
+en,True,Re-Alldataset/en/audio3992.wav,Re-Alldataset_en_3992,styletts,Re-Alldataset,1,3,1,1,这个人声效果很像是真实场景收声得到的
+en,False,NoiseAdded-animal25/en/audio13537.wav,NoiseAdded-animal25_en_13537,real,NoiseAdded-animal25,1,-1,1,-1,
+en,False,logfade10/en/audio5013.wav,logfade10_en_5013,real,logfade10,0,-1,1,-1,
+en,True,NoiseAdded-animal15/en/audio6278.wav,NoiseAdded-animal15_en_6278,RBVC,NoiseAdded-animal15,0,1,1,1,said这个单词和其他的单词音色有较大差距
+en,True,NoiseAdded-natural15/en/audio4035.wav,NoiseAdded-natural15_en_4035,tortoise-tts,NoiseAdded-natural15,0,3,1,1,Background noise
+en,False,volume75/en/audio2421.wav,volume75_en_2421,real,volume75,0,-1,1,-1,
+en,False,Alldataset44k/en/audio3450.wav,Alldataset44k_en_3450,real,Alldataset44k,1,-1,1,-1,
+en,False,NoiseAdded-human20/en/audio2352.wav,NoiseAdded-human20_en_2352,real,NoiseAdded-human20,0,-1,1,-1,
+en,False,logfade20/en/audio2887.wav,logfade20_en_2887,real,logfade20,0,-1,1,-1,
+en,True,linefade20/en/audio5900.wav,linefade20_en_5900,DDM-vc,linefade20,0,3,1,1,单词的连读很自然
+en,False,expfade20/en/audio744.wav,expfade20_en_744,real,expfade20,0,-1,1,-1,
+en,False,expfade30/en/audio1915.wav,expfade30_en_1915,real,expfade30,1,-1,1,-1,
+en,False,NoiseAdded-interior15/en/audio83.wav,NoiseAdded-interior15_en_83,real,NoiseAdded-interior15,0,-1,1,-1,
+en,True,NoiseAdded-exterior20/en/audio3889.wav,NoiseAdded-exterior20_en_3889,voicemaker,NoiseAdded-exterior20,0,3,1,1,"Voice volume,Speech rate,Pauses or breathing sounds,音调的上升和下降很自然"
+en,True,logfade30/en/audio6281.wav,logfade30_en_6281,openai,logfade30,1,1,1,1,"Speech rate,Emotion"
+en,True,NoiseAdded-human15/en/audio6187.wav,NoiseAdded-human15_en_6187,aivoov,NoiseAdded-human15,1,3,1,1,"Background noise,音调的上升和下降很自然 单词结尾的气声也自然"
+en,False,Re-Alldataset/en/audio1761.wav,Re-Alldataset_en_1761,real,Re-Alldataset,0,-1,1,-1,
+en,False,volume50/en/audio4287.wav,volume50_en_4287,real,volume50,0,-1,1,-1,

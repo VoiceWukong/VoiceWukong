@@ -1,0 +1,79 @@
+language,fake_or_real,path,id,source,variant,user_choice,user_score,have_answered,have_scored,cause
+en,True,Re-Alldataset/en/audio3045.wav,Re-Alldataset_en_3045,vitstts,Re-Alldataset,1,3,1,1,没念完的突然停顿
+en,True,gaussadded20/en/audio4360.wav,gaussadded20_en_4360,vitstts,gaussadded20,1,1,1,1,
+en,True,NoiseAdded-interior25/en/audio616.wav,NoiseAdded-interior25_en_616,playht,NoiseAdded-interior25,0,2,1,1,Background noise
+en,True,volume125/en/audio157.wav,volume125_en_157,voiser,volume125,0,3,1,1,"Speech rate,Emotion"
+en,True,NoiseAdded-exterior15/en/audio4397.wav,NoiseAdded-exterior15_en_4397,texttovoice,NoiseAdded-exterior15,0,1,1,1,"Background noise,Speech rate,Emotion,Pauses or breathing sounds"
+en,True,volume150/en/audio5852.wav,volume150_en_5852,diffganTTS,volume150,1,1,1,1,"Background noise,Speech rate,Emotion,Pauses or breathing sounds"
+en,True,NoiseAdded-interior20/en/audio355.wav,NoiseAdded-interior20_en_355,fakeyou,NoiseAdded-interior20,1,1,1,1,"Background noise,Speech rate,Pauses or breathing sounds"
+en,True,TimeScaling105/en/audio4860.wav,TimeScaling105_en_4860,anytospeech,TimeScaling105,0,3,1,1,"Speech rate,Pauses or breathing sounds"
+en,False,volume75/en/audio3328.wav,volume75_en_3328,real,volume75,0,-1,1,-1,
+en,True,expfade30/en/audio6183.wav,expfade30_en_6183,anytospeech,expfade30,1,2,1,1,Voice volume
+en,True,volume50/en/audio6319.wav,volume50_en_6319,vitstts,volume50,0,3,1,1,"Speech rate,Emotion,Pauses or breathing sounds"
+en,False,linefade30/en/audio6265.wav,linefade30_en_6265,real,linefade30,0,-1,1,-1,
+en,True,volume75/en/audio4591.wav,volume75_en_4591,DiffHiervc,volume75,1,1,1,1,Background noise
+en,False,logfade10/en/audio5091.wav,logfade10_en_5091,real,logfade10,0,-1,1,-1,
+en,False,NoiseAdded-animal25/en/audio2623.wav,NoiseAdded-animal25_en_2623,real,NoiseAdded-animal25,0,-1,1,-1,
+en,False,Re-Alldataset/en/audio3064.wav,Re-Alldataset_en_3064,real,Re-Alldataset,1,-1,1,-1,
+en,True,NoiseAdded-animal20/en/audio1405.wav,NoiseAdded-animal20_en_1405,OpenVoice,NoiseAdded-animal20,0,2,1,1,Background noise
+en,True,NoiseAdded-human20/en/audio1971.wav,NoiseAdded-human20_en_1971,GPT_SoVITS,NoiseAdded-human20,0,1,1,1,"Background noise,Speech rate,Emotion,Pauses or breathing sounds"
+en,True,logfade10/en/audio1777.wav,logfade10_en_1777,diffganTTS,logfade10,1,1,1,1,"Background noise,Speech rate,Pauses or breathing sounds"
+en,False,TimeScaling95/en/audio3254.wav,TimeScaling95_en_3254,real,TimeScaling95,0,-1,1,-1,
+en,False,logfade20/en/audio793.wav,logfade20_en_793,real,logfade20,0,-1,1,-1,
+en,True,expfade20/en/audio5210.wav,expfade20_en_5210,vitstts,expfade20,1,2,1,1,"Voice volume,Speech rate,Emotion"
+en,False,NoiseAdded-animal20/en/audio4826.wav,NoiseAdded-animal20_en_4826,real,NoiseAdded-animal20,0,-1,1,-1,
+en,False,logfade30/en/audio5786.wav,logfade30_en_5786,real,logfade30,1,-1,1,-1,
+en,True,NoiseAdded-exterior20/en/audio2163.wav,NoiseAdded-exterior20_en_2163,xtts_v2,NoiseAdded-exterior20,0,1,1,1,"Background noise,没念完的突然停顿"
+en,False,expfade20/en/audio4119.wav,expfade20_en_4119,real,expfade20,0,-1,1,-1,
+en,False,NoiseAdded-interior20/en/audio3651.wav,NoiseAdded-interior20_en_3651,real,NoiseAdded-interior20,1,-1,1,-1,
+en,True,expfade10/en/audio2073.wav,expfade10_en_2073,textmagic,expfade10,0,2,1,1,Voice volume
+en,True,NoiseAdded-human15/en/audio5090.wav,NoiseAdded-human15_en_5090,speechgen,NoiseAdded-human15,0,1,1,1,"Background noise,没念完的突然停顿"
+en,False,expfade30/en/audio2815.wav,expfade30_en_2815,real,expfade30,0,-1,1,-1,
+en,False,NoiseAdded-natural15/en/audio5907.wav,NoiseAdded-natural15_en_5907,real,NoiseAdded-natural15,0,-1,1,-1,
+en,True,NoiseAdded-animal15/en/audio333.wav,NoiseAdded-animal15_en_333,GPT_SoVITS,NoiseAdded-animal15,1,1,1,1,"Background noise,Speech rate,Emotion"
+en,False,volume150/en/audio4963.wav,volume150_en_4963,real,volume150,0,-1,1,-1,
+en,True,Alldataset44k/en/audio2335.wav,Alldataset44k_en_2335,OpenVoice,Alldataset44k,0,2,1,1,"Background noise,Speech rate,Pauses or breathing sounds"
+en,False,gaussadded15/en/audio2063.wav,gaussadded15_en_2063,real,gaussadded15,1,-1,1,-1,
+en,False,Alldataset44k/en/audio2548.wav,Alldataset44k_en_2548,real,Alldataset44k,1,-1,1,-1,
+en,True,gaussadded15/en/audio4480.wav,gaussadded15_en_4480,textmagic,gaussadded15,1,1,1,1,Background noise
+en,False,TimeScaling105/en/audio3799.wav,TimeScaling105_en_3799,real,TimeScaling105,0,-1,1,-1,
+en,True,TimeScaling110/en/audio3285.wav,TimeScaling110_en_3285,unmixr,TimeScaling110,0,3,1,1,"Speech rate,Emotion"
+en,True,Alldataset/en/audio5456.wav,Alldataset_en_5456,speakperfect,Alldataset,0,3,1,1,"Speech rate,Emotion,Pauses or breathing sounds"
+en,True,logfade20/en/audio3483.wav,logfade20_en_3483,xtts_v2,logfade20,1,1,1,1,Voice volume
+en,False,NoiseAdded-interior15/en/audio2685.wav,NoiseAdded-interior15_en_2685,real,NoiseAdded-interior15,0,-1,1,-1,
+en,False,expfade10/en/audio3527.wav,expfade10_en_3527,real,expfade10,0,-1,1,-1,
+en,True,linefade20/en/audio13384.wav,linefade20_en_13384,ChatTTS,linefade20,0,2,1,1,"Voice volume,Pauses or breathing sounds,没念完的突然停顿"
+en,False,TimeScaling110/en/audio5371.wav,TimeScaling110_en_5371,real,TimeScaling110,1,-1,1,-1,
+en,False,NoiseAdded-animal15/en/audio791.wav,NoiseAdded-animal15_en_791,real,NoiseAdded-animal15,1,-1,1,-1,
+en,False,NoiseAdded-exterior15/en/audio4312.wav,NoiseAdded-exterior15_en_4312,real,NoiseAdded-exterior15,1,-1,1,-1,
+en,False,Alldataset/en/audio4299.wav,Alldataset_en_4299,real,Alldataset,0,-1,1,-1,
+en,True,linefade10/en/audio2539.wav,linefade10_en_2539,freetts,linefade10,0,3,1,1,"Speech rate,Emotion,Pauses or breathing sounds"
+en,True,NoiseAdded-exterior25/en/audio5144.wav,NoiseAdded-exterior25_en_5144,vallex,NoiseAdded-exterior25,1,1,1,1,"Background noise,不符合声音语境"
+en,True,NoiseAdded-natural20/en/audio2740.wav,NoiseAdded-natural20_en_2740,StarGan,NoiseAdded-natural20,1,1,1,1,"Background noise,Emotion"
+en,True,NoiseAdded-natural15/en/audio2203.wav,NoiseAdded-natural15_en_2203,QuickVC,NoiseAdded-natural15,1,1,1,1,"Background noise,Speech rate,Emotion,Pauses or breathing sounds"
+en,True,TimeScaling95/en/audio4980.wav,TimeScaling95_en_4980,aivoov,TimeScaling95,1,1,1,1,"Background noise,Speech rate,Emotion"
+en,True,NoiseAdded-human25/en/audio3475.wav,NoiseAdded-human25_en_3475,playht,NoiseAdded-human25,1,1,1,1,"Background noise,Speech rate,Emotion"
+en,True,linefade30/en/audio3836.wav,linefade30_en_3836,fakeyou,linefade30,0,2,1,1,"Voice volume,Speech rate,Emotion,Pauses or breathing sounds"
+en,False,NoiseAdded-exterior25/en/audio1382.wav,NoiseAdded-exterior25_en_1382,real,NoiseAdded-exterior25,0,-1,1,-1,
+en,True,NoiseAdded-interior15/en/audio4874.wav,NoiseAdded-interior15_en_4874,RBVC,NoiseAdded-interior15,1,1,1,1,"Background noise,Speech rate,Emotion,Pauses or breathing sounds,没念完的突然停顿"
+en,True,NoiseAdded-animal25/en/audio4130.wav,NoiseAdded-animal25_en_4130,vitstts,NoiseAdded-animal25,1,1,1,1,Background noise
+en,False,NoiseAdded-human25/en/audio1874.wav,NoiseAdded-human25_en_1874,real,NoiseAdded-human25,1,-1,1,-1,
+en,False,NoiseAdded-exterior20/en/audio6070.wav,NoiseAdded-exterior20_en_6070,real,NoiseAdded-exterior20,0,-1,1,-1,
+en,True,TimeScaling90/en/audio1264.wav,TimeScaling90_en_1264,playht,TimeScaling90,1,3,1,1,"Speech rate,Pauses or breathing sounds"
+en,False,volume50/en/audio650.wav,volume50_en_650,real,volume50,1,-1,1,-1,
+en,False,NoiseAdded-natural20/en/audio4616.wav,NoiseAdded-natural20_en_4616,real,NoiseAdded-natural20,1,-1,1,-1,
+en,False,volume125/en/audio6315.wav,volume125_en_6315,real,volume125,1,-1,1,-1,
+en,False,linefade20/en/audio13466.wav,linefade20_en_13466,real,linefade20,1,-1,1,-1,
+en,False,NoiseAdded-human15/en/audio443.wav,NoiseAdded-human15_en_443,real,NoiseAdded-human15,1,-1,1,-1,
+en,False,gaussadded25/en/audio5405.wav,gaussadded25_en_5405,real,gaussadded25,1,-1,1,-1,
+en,True,NoiseAdded-natural25/en/audio513.wav,NoiseAdded-natural25_en_513,unmixr,NoiseAdded-natural25,0,1,1,1,Background noise
+en,False,gaussadded20/en/audio5977.wav,gaussadded20_en_5977,real,gaussadded20,1,-1,1,-1,
+en,False,NoiseAdded-interior25/en/audio2109.wav,NoiseAdded-interior25_en_2109,real,NoiseAdded-interior25,0,-1,1,-1,
+en,False,NoiseAdded-human20/en/audio3546.wav,NoiseAdded-human20_en_3546,real,NoiseAdded-human20,1,-1,1,-1,
+en,True,logfade30/en/audio1158.wav,logfade30_en_1158,DiffHiervc,logfade30,0,2,1,1,"Background noise,Emotion"
+en,False,TimeScaling90/en/audio6291.wav,TimeScaling90_en_6291,real,TimeScaling90,1,-1,1,-1,
+en,False,linefade10/en/audio6521.wav,linefade10_en_6521,real,linefade10,1,-1,1,-1,
+en,True,gaussadded25/en/audio6012.wav,gaussadded25_en_6012,DDM-vc,gaussadded25,1,1,1,1,Background noise
+en,True,Alldataset32K/en/audio4180.wav,Alldataset32K_en_4180,elevenlabs,Alldataset32K,0,1,1,1,没念完的突然停顿
+en,False,NoiseAdded-natural25/en/audio1744.wav,NoiseAdded-natural25_en_1744,real,NoiseAdded-natural25,1,-1,1,-1,
+en,False,Alldataset32K/en/audio3811.wav,Alldataset32K_en_3811,real,Alldataset32K,0,-1,1,-1,

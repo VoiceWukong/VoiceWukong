@@ -1,0 +1,79 @@
+language,fake_or_real,path,id,source,variant,user_choice,user_score,have_answered,have_scored,cause
+en,True,gaussadded25/en/audio524.wav,gaussadded25_en_524,resemble-AI,gaussadded25,0,3,1,1,"Speech rate,I feel that my tone of voice is very calm, much like that of an adult male speaking"
+en,True,TimeScaling110/en/audio1746.wav,TimeScaling110_en_1746,voxify,TimeScaling110,0,3,1,1,"Speech rate,Pauses or breathing sounds"
+en,True,NoiseAdded-animal15/en/audio1660.wav,NoiseAdded-animal15_en_1660,StarGan,NoiseAdded-animal15,1,3,1,1,"Background noise,Pauses or breathing sounds"
+en,True,NoiseAdded-exterior20/en/audio1423.wav,NoiseAdded-exterior20_en_1423,naturalreader,NoiseAdded-exterior20,1,2,1,1,"Speech rate,Emotion"
+en,False,NoiseAdded-natural25/en/audio2043.wav,NoiseAdded-natural25_en_2043,real,NoiseAdded-natural25,0,-1,1,-1,
+en,True,volume75/en/audio1790.wav,volume75_en_1790,texttovoice,volume75,1,1,1,1,Speech rate
+en,True,TimeScaling95/en/audio3910.wav,TimeScaling95_en_3910,unmixr,TimeScaling95,0,1,1,1,Emotion
+en,True,Alldataset/en/audio190.wav,Alldataset_en_190,DDM-vc,Alldataset,1,3,1,1,"Speech rate,Emotion,Pauses or breathing sounds,It's very similar to what was said during communication"
+en,True,NoiseAdded-exterior15/en/audio4884.wav,NoiseAdded-exterior15_en_4884,naturalreader,NoiseAdded-exterior15,1,3,1,1,"Background noise,Pauses or breathing sounds"
+en,True,TimeScaling105/en/audio5706.wav,TimeScaling105_en_5706,voxify,TimeScaling105,0,3,1,1,"Speech rate,Emotion,Pauses or breathing sounds"
+en,True,expfade10/en/audio13485.wav,expfade10_en_13485,ChatTTS,expfade10,1,3,1,1,"There is a situation of connected reading, which should be said by someone"
+en,True,NoiseAdded-human20/en/audio1005.wav,NoiseAdded-human20_en_1005,aivoov,NoiseAdded-human20,0,3,1,1,"Emotion,Pauses or breathing sounds"
+en,False,gaussadded20/en/audio6044.wav,gaussadded20_en_6044,real,gaussadded20,1,-1,1,-1,
+en,False,expfade30/en/audio5536.wav,expfade30_en_5536,real,expfade30,0,-1,1,-1,
+en,True,NoiseAdded-human25/en/audio13341.wav,NoiseAdded-human25_en_13341,ChatTTS,NoiseAdded-human25,0,2,1,1,"Background noise,Voice volume"
+en,True,NoiseAdded-natural25/en/audio277.wav,NoiseAdded-natural25_en_277,DiffHiervc,NoiseAdded-natural25,1,1,1,1,"Speech rate,There is no emotional change between this however and the two sentences"
+en,True,NoiseAdded-interior15/en/audio4067.wav,NoiseAdded-interior15_en_4067,textmagic,NoiseAdded-interior15,1,2,1,1,"Background noise,Emotion"
+en,True,gaussadded15/en/audio2642.wav,gaussadded15_en_2642,QuickVC,gaussadded15,1,3,1,1,"Background noise,Pauses or breathing sounds,The last word has a noticeable tone change"
+en,False,volume50/en/audio5165.wav,volume50_en_5165,real,volume50,0,-1,1,-1,
+en,True,TimeScaling90/en/audio105.wav,TimeScaling90_en_105,speakperfect,TimeScaling90,0,3,1,1,"Emotion,Pauses or breathing sounds"
+en,False,NoiseAdded-natural20/en/audio1206.wav,NoiseAdded-natural20_en_1206,real,NoiseAdded-natural20,0,-1,1,-1,
+en,True,NoiseAdded-interior25/en/audio4063.wav,NoiseAdded-interior25_en_4063,OpenVoice,NoiseAdded-interior25,1,1,1,1,"Background noise,Speech rate"
+en,False,expfade10/en/audio5828.wav,expfade10_en_5828,real,expfade10,1,-1,1,-1,
+en,False,NoiseAdded-animal15/en/audio3536.wav,NoiseAdded-animal15_en_3536,real,NoiseAdded-animal15,0,-1,1,-1,
+en,False,TimeScaling110/en/audio2079.wav,TimeScaling110_en_2079,real,TimeScaling110,0,-1,1,-1,
+en,True,volume125/en/audio6137.wav,volume125_en_6137,resemble-AI,volume125,1,3,1,1,"Emotion,Pauses or breathing sounds,It's very similar to the tone changes when we speak"
+en,False,logfade20/en/audio3080.wav,logfade20_en_3080,real,logfade20,0,-1,1,-1,
+en,True,NoiseAdded-animal20/en/audio1671.wav,NoiseAdded-animal20_en_1671,voiser,NoiseAdded-animal20,0,2,1,1,"Background noise,Speech rate,Pauses or breathing sounds"
+en,False,gaussadded15/en/audio2253.wav,gaussadded15_en_2253,real,gaussadded15,0,-1,1,-1,
+en,False,NoiseAdded-natural15/en/audio4002.wav,NoiseAdded-natural15_en_4002,real,NoiseAdded-natural15,0,-1,1,-1,
+en,True,logfade30/en/audio2334.wav,logfade30_en_2334,QuickVC,logfade30,1,1,1,1,"Speech rate,Emotion"
+en,False,Re-Alldataset/en/audio3282.wav,Re-Alldataset_en_3282,real,Re-Alldataset,0,-1,1,-1,
+en,False,NoiseAdded-exterior25/en/audio2059.wav,NoiseAdded-exterior25_en_2059,real,NoiseAdded-exterior25,0,-1,1,-1,
+en,False,NoiseAdded-animal20/en/audio2496.wav,NoiseAdded-animal20_en_2496,real,NoiseAdded-animal20,0,-1,1,-1,
+en,True,Alldataset44k/en/audio529.wav,Alldataset44k_en_529,Bark,Alldataset44k,0,3,1,1,"Emotion,Pauses or breathing sounds,There is a sense of shock in the tone"
+en,False,TimeScaling105/en/audio279.wav,TimeScaling105_en_279,real,TimeScaling105,0,-1,1,-1,
+en,False,TimeScaling95/en/audio1875.wav,TimeScaling95_en_1875,real,TimeScaling95,0,-1,1,-1,
+en,False,expfade20/en/audio6177.wav,expfade20_en_6177,real,expfade20,0,-1,1,-1,
+en,False,volume75/en/audio1886.wav,volume75_en_1886,real,volume75,0,-1,1,-1,
+en,False,NoiseAdded-interior20/en/audio4977.wav,NoiseAdded-interior20_en_4977,real,NoiseAdded-interior20,1,-1,1,-1,
+en,False,NoiseAdded-exterior15/en/audio2079.wav,NoiseAdded-exterior15_en_2079,real,NoiseAdded-exterior15,0,-1,1,-1,
+en,False,Alldataset/en/audio3074.wav,Alldataset_en_3074,real,Alldataset,1,-1,1,-1,
+en,True,Alldataset32K/en/audio2829.wav,Alldataset32K_en_2829,playht,Alldataset32K,0,2,1,1,"Speech rate,There is a willingness to take immediate action"
+en,False,linefade10/en/audio6359.wav,linefade10_en_6359,real,linefade10,0,-1,1,-1,
+en,False,logfade30/en/audio2928.wav,logfade30_en_2928,real,logfade30,0,-1,1,-1,
+en,False,gaussadded25/en/audio3699.wav,gaussadded25_en_3699,real,gaussadded25,0,-1,1,-1,
+en,False,NoiseAdded-interior25/en/audio2999.wav,NoiseAdded-interior25_en_2999,real,NoiseAdded-interior25,1,-1,1,-1,
+en,False,linefade30/en/audio4792.wav,linefade30_en_4792,real,linefade30,0,-1,1,-1,
+en,False,NoiseAdded-interior15/en/audio2021.wav,NoiseAdded-interior15_en_2021,real,NoiseAdded-interior15,0,-1,1,-1,
+en,True,NoiseAdded-natural20/en/audio484.wav,NoiseAdded-natural20_en_484,xtts_v2,NoiseAdded-natural20,0,3,1,1,"Speech rate,Emotion,Pauses or breathing sounds"
+en,True,NoiseAdded-human15/en/audio13529.wav,NoiseAdded-human15_en_13529,ChatTTS,NoiseAdded-human15,0,3,1,1,"Emotion,Pauses or breathing sounds"
+en,False,NoiseAdded-human15/en/audio1521.wav,NoiseAdded-human15_en_1521,real,NoiseAdded-human15,0,-1,1,-1,
+en,True,NoiseAdded-animal25/en/audio4773.wav,NoiseAdded-animal25_en_4773,styletts,NoiseAdded-animal25,0,2,1,1,"Pauses or breathing sounds,The tone change of the turning point is not very significant"
+en,True,expfade20/en/audio2707.wav,expfade20_en_2707,vallex,expfade20,0,3,1,1,"Speech rate,Emotion,Pauses or breathing sounds,there is a significant change in the tone of the transitional tone between the two sentences and the word however"
+en,True,NoiseAdded-exterior25/en/audio1378.wav,NoiseAdded-exterior25_en_1378,anytospeech,NoiseAdded-exterior25,0,3,1,1,"Background noise,Pauses or breathing sounds"
+en,True,expfade30/en/audio5795.wav,expfade30_en_5795,unmixr,expfade30,0,3,1,1,"Speech rate,Pauses or breathing sounds,The last word has a trailing sound"
+en,False,logfade10/en/audio5079.wav,logfade10_en_5079,real,logfade10,0,-1,1,-1,
+en,True,volume150/en/audio1231.wav,volume150_en_1231,vitstts,volume150,0,2,1,1,"Voice volume,Speech rate"
+en,True,gaussadded20/en/audio1917.wav,gaussadded20_en_1917,xtts_v2,gaussadded20,1,2,1,1,"Background noise,Speech rate,Speak at a fast pace without any change in tone"
+en,False,volume150/en/audio4132.wav,volume150_en_4132,real,volume150,0,-1,1,-1,
+en,True,Re-Alldataset/en/audio673.wav,Re-Alldataset_en_673,freetts,Re-Alldataset,1,2,1,1,Pauses or breathing sounds
+en,True,linefade30/en/audio5152.wav,linefade30_en_5152,audyo,linefade30,0,3,1,1,"Emotion,Pauses or breathing sounds,Speaking feels very in line with the tone of an adult male"
+en,False,Alldataset32K/en/audio1030.wav,Alldataset32K_en_1030,real,Alldataset32K,1,-1,1,-1,
+en,False,linefade20/en/audio2112.wav,linefade20_en_2112,real,linefade20,1,-1,1,-1,
+en,False,Alldataset44k/en/audio4229.wav,Alldataset44k_en_4229,real,Alldataset44k,0,-1,1,-1,
+en,True,volume50/en/audio4139.wav,volume50_en_4139,styletts,volume50,0,3,1,1,"Speech rate,Pauses or breathing sounds"
+en,False,TimeScaling90/en/audio3093.wav,TimeScaling90_en_3093,real,TimeScaling90,0,-1,1,-1,
+en,False,NoiseAdded-animal25/en/audio4704.wav,NoiseAdded-animal25_en_4704,real,NoiseAdded-animal25,0,-1,1,-1,
+en,False,volume125/en/audio1050.wav,volume125_en_1050,real,volume125,1,-1,1,-1,
+en,True,logfade20/en/audio4371.wav,logfade20_en_4371,voicemaker,logfade20,0,2,1,1,Speech rate
+en,True,NoiseAdded-natural15/en/audio2921.wav,NoiseAdded-natural15_en_2921,aivoov,NoiseAdded-natural15,0,3,1,1,"Background noise,Speech rate,Pauses or breathing sounds,Speaking feels very in line with the tone of an adult male"
+en,False,NoiseAdded-human20/en/audio4710.wav,NoiseAdded-human20_en_4710,real,NoiseAdded-human20,0,-1,1,-1,
+en,True,linefade10/en/audio1957.wav,linefade10_en_1957,tortoise-tts,linefade10,0,3,1,1,"Speech rate,Pauses or breathing sounds,There is a very obvious inhalation at the beginning"
+en,False,NoiseAdded-human25/en/audio3819.wav,NoiseAdded-human25_en_3819,real,NoiseAdded-human25,1,-1,1,-1,
+en,False,NoiseAdded-exterior20/en/audio6157.wav,NoiseAdded-exterior20_en_6157,real,NoiseAdded-exterior20,0,-1,1,-1,
+en,True,logfade10/en/audio5490.wav,logfade10_en_5490,DiffHiervc,logfade10,0,3,1,1,"Voice volume,Finally, there's a sigh of relief"
+en,True,linefade20/en/audio5008.wav,linefade20_en_5008,freetts,linefade20,0,3,1,1,"Speech rate,Pauses or breathing sounds"
+en,True,NoiseAdded-interior20/en/audio6226.wav,NoiseAdded-interior20_en_6226,StarGan,NoiseAdded-interior20,0,3,1,1,"Speech rate,Emotion"
