@@ -4,17 +4,14 @@ import pyrubberband as pyrb
 import soundfile as sf
 
 
-# 加载音频文件
+
 def audiotimechange(src, dst, stretch_factor):
     y, sr = sf.read(src)
 
-    # 设置时间拉伸的因子
-    # stretch_factor = 1.5  # 拉伸1.5倍
-
-    # 使用Rubber Band进行时间拉伸
+ 
     y_stretch = pyrb.time_stretch(y, sr, stretch_factor)
 
-    # 保存拉伸后的音频
+
     sf.write(dst, y_stretch, sr)
 
 

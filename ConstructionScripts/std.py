@@ -101,7 +101,7 @@ def rmSilence(src, dst):
                         continue
                     start_sample = nonsilence_idx[0] * 512
                     end_sample = nonsilence_idx[-1] * 512 + 512
-                    # 提取有声部分
+                  
                     audio_nonsilent = y[start_sample:end_sample]
 
                     os.makedirs(root.replace(src, dst), exist_ok=True)

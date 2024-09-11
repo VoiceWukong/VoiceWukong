@@ -42,7 +42,7 @@ from audiomentations import AddBackgroundNoise, Compose
 import soundfile as sf
 
 
-# 加载您的原始音频
+
 def noise_add(clean_file, noise_file, output_mixed_file, snr):
     audio, sample_rate = sf.read(clean_file)
 
@@ -54,7 +54,7 @@ def noise_add(clean_file, noise_file, output_mixed_file, snr):
                 sounds_path=noise_files,
                 min_snr_in_db=snr,
                 max_snr_in_db=snr,
-                # noise_transform=lambda audio: audio,
+              
                 p=1.0,
             )
         ]
@@ -86,7 +86,7 @@ import pandas as pd
 
 
 def resample_and_compare_duration(src_file, noise_file, resampled_noise_file):
-    # 读取原音频文件和噪声文件的采样率和数据
+   
     with wave.open(src_file, "r") as src_wav:
         src_rate = src_wav.getframerate()
         src_frames = src_wav.readframes(src_wav.getnframes())
@@ -97,12 +97,12 @@ def resample_and_compare_duration(src_file, noise_file, resampled_noise_file):
         noise_frames = noise_wav.readframes(noise_wav.getnframes())
         noise_data = np.frombuffer(noise_frames, dtype=np.int16)
 
-    # 对噪声进行重采样
+
     noise_data_resampled = resample(
         noise_data, len(noise_data) * src_rate // noise_rate
     )
 
-    # 计算原音频文件和重采样后的噪声文件的时长
+  
     src_duration = len(src_data) / src_rate
     noise_duration = len(noise_data_resampled) / src_rate
     with wave.open(resampled_noise_file, "w") as resampled_noise_wav:
@@ -111,7 +111,7 @@ def resample_and_compare_duration(src_file, noise_file, resampled_noise_file):
         resampled_noise_wav.setframerate(src_rate)
         resampled_noise_wav.writeframes(noise_data_resampled.astype(np.int16).tobytes())
 
-    # 判断噪声时长是否长于原音频文件时长
+
     return noise_duration >= src_duration
 
 
@@ -126,17 +126,15 @@ def convert_audio2wav_files(src_dir, dst_dir, noise_dir, resampled_noise_file, s
             src_file = os.path.join(root, file)
             dst_file = os.path.join(dst_dir, os.path.relpath(src_file, src_dir))
 
-            # 创建目标文件的目录
             os.makedirs(os.path.dirname(dst_file), exist_ok=True)
 
-            # 根据文件扩展名进行不同的转换操作
+       
 
             if file.endswith(".wav"):
                 try:
 
                     noise_file = noise_choice(noise_dir)
-                    # if resample_and_compare_duration(src_file, noise_file,resampled_noise_file):
-                    # break
+              
 
                     noise_add(
                         clean_file=src_file,
@@ -144,8 +142,7 @@ def convert_audio2wav_files(src_dir, dst_dir, noise_dir, resampled_noise_file, s
                         output_mixed_file=dst_file,
                         snr=snr,
                     )
-                    # else:
-                    # noise_add2(clean_file=src_file, noise_file=resampled_noise_file, output_mixed_file=dst_file, snr=snr)
+           
                 except Exception as e:
                     print(f"Error: {e}")
                     if not os.path.exists("addnoiseerror.csv"):
@@ -156,7 +153,7 @@ def convert_audio2wav_files(src_dir, dst_dir, noise_dir, resampled_noise_file, s
                     df.to_csv("addnoiseerror.csv", index=False)
 
             else:
-                # 对于其他格式的文件，直接复制到目标目录
+    
                 shutil.copy2(src_file, dst_file)
 
 

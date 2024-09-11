@@ -39,9 +39,8 @@ def resample(src, dst, resr):
                 )
 
 
-# resample('Wav-audio','Resample16K-audio')
 src = "std.subset"
-# dst=['/home/ydoit/AIGC/coqui-ai/xtts-Alldataset32K','/home/ydoit/AIGC/coqui-ai/xtts-Alldataset48k']
+
 dst = ["Alldataset32K", "Alldataset44k"]
 resr = [32000, 44100]
 for i in range(len(dst)):
