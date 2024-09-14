@@ -1,5 +1,7 @@
 ## VoiceWukong
 - A Comprehensive Benchmark for Deepfake Voice Detection
+
+  - We provide a leaderboard for deepfake voice detection, publicly available at https://voicewukong.github.io.
 <!--
 **VoiceWukong/VoiceWukong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
