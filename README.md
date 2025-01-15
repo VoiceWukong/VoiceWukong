@@ -1,5 +1,5 @@
 # VoiceWukong
-VoiceWukong is a comprehensive benchmark for deepfake voice detection, designed to evaluate the performance of various voice detectors in real-world application scenarios.
+VoiceWukong is a comprehensive benchmark for deepfake voice detection, designed to evaluate the performance of various detectors in real-world application scenarios.
 
 **Dataset Features**
 - Large Scale: Contains 265,200 English and 148,200 Chinese deepfake voice samples
@@ -20,6 +20,8 @@ VoiceWukong is a comprehensive benchmark for deepfake voice detection, designed 
 - Different detectors and humans showed varying identification capabilities for deepfake voices at different deception levels
 - Multimodal large language models demonstrated no effective detection ability
 
+## Dataset
+- Our dataset is open-source and can be obtained through an application [here](https://zenodo.org/records/13731918).
 
 ## Leaderboard
 Our leaderboard presents comprehensive evaluation results in three main sections:
@@ -39,8 +41,12 @@ Our leaderboard presents comprehensive evaluation results in three main sections
 
 Visit our [leaderboard](https://voicewukong.github.io/) for detailed performance metrics and rankings.
 
-## Dataset
-- Our dataset is open-source and can be obtained through an application [here](https://zenodo.org/records/13731918).
+## Evaluated Detectors' Weighted Models
+- All evaluated detectors’ weighted models can be obtained from [here](https://huggingface.co/VoiceWukong/VoiceWukong/).
+
+
+## User Study Results & Original Outputs
+- This code repository stores our [user study results](https://github.com/VoiceWukong/VoiceWukong/tree/main/Userstudy/result) and the [original outputs](https://github.com/VoiceWukong/VoiceWukong/tree/main/OutputScore) of the evaluation detectors.
 
 ## Usage License
 
