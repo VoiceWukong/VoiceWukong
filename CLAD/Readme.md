@@ -16,7 +16,7 @@ make sure python3.10.12 is installed
 
 ## Run
 
-- execute the cells in eva.ipynb in order
+- execute the cells in ``eva.ipynb`` file in order
 
 # Analysis
 
