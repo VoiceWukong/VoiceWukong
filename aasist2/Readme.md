@@ -11,7 +11,7 @@ make sure python3.10.12 is installed
 - change "cp_path" in the ``SSL_Anti-spoofing/model.py`` file to the pretrained xlsr model
 
 ## Dataset
-- download the [part_aa]() and the [part_ab]() of **VoiceWukong** dataset, place both files in the same directory and use the following command to decompress
+- download the [part_aa](https://zenodo.org/records/13731918) and the [part_ab](https://zenodo.org/records/13732412) of **VoiceWukong** dataset, place both files in the same directory and use the following command to decompress
 >>  ```cat VoiceWukong.part_* | tar -xz```
 
 - change the path of the corresponding dataset in the ```SSL_Anti-spoofing/eva.ipynb``` file to the path of the decompressed data set
